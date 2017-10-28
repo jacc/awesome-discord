@@ -9,8 +9,8 @@
 
 # Awesome Discord [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">✨ To get here, just go to <code><a href='http://coolcord.ga'>coolcord.ga</a></code> ✨</p>
-An awesome list of things for the VoIP and chat application Discord.
+<strong><p align="center">✨ To get here, just go to <code><a href='http://coolcord.ga'>coolcord.ga</a></code> ✨</p></strong>
+<p align='center'>An awesome list of things for the VoIP and chat application Discord.</p>
 
 ## Contents
 
