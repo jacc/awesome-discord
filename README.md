@@ -8,6 +8,7 @@
 
 - [Bots](#bots)
 - [Programming Languages](#programming-languages)
+- [Addons](#addons)
 - [Community](#community)
 - [Resources](#resources)
 
@@ -45,6 +46,12 @@
   - [discorcr](https://github.com/meew0/discordcr)
 - Dart
   - [nyx](https://github.com/hackzzila/nyx)
+  
+## Addons
+**WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
+
+- [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
+- [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - More widely used and faster, adds custom CSS support to Discord.
 
 ## Community
 
