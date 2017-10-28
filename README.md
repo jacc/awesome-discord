@@ -12,6 +12,7 @@
 
 ## Bots
 
+- [Mee6](https://mee6.xyz) - The most popular bot on Discord, has many features useful for everyday Discord servers.
 - [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, custom commands
 - [Google](https://google.gus.host/) - Brings the power of Google to Discord.
 - [DiscordRPG](https://discordapp.com/oauth2/authorize?&client_id=170915256833540097&scope=bot&permissions=0) - RPG text game in Discord.
