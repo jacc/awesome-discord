@@ -10,7 +10,7 @@
 
 # Awesome Discord [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-✨ Also accessable at **[`coolcord.ga`](https://coolcord.ga)** ✨
+✨ To get here, just go to **[`coolcord.ga`](https://coolcord.ga)** ✨
 
 An awesome list of things for the VoIP and chat application Discord.
 
@@ -22,7 +22,7 @@ An awesome list of things for the VoIP and chat application Discord.
 - [Community](#community)
 - [Resources](#official-resources)
 
-## Bots
+## 🤖 Bots
 
 - [Mee6](https://mee6.xyz) - The most popular bot on Discord, has many features useful for everyday Discord servers.
 - [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, custom commands
@@ -42,7 +42,7 @@ An awesome list of things for the VoIP and chat application Discord.
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
 
 
-## Programming Languages
+## 💻 Programming Languages
 
 - Node.js
   - [discord.js](https://github.com/hydrabolt/discord.js/)
@@ -57,13 +57,13 @@ An awesome list of things for the VoIP and chat application Discord.
 - Dart
   - [nyx](https://github.com/hackzzila/nyx)
   
-## Addons
+## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - More widely used and faster, adds custom CSS support to Discord.
 
-## Community
+## 💁‍♂️ Community
 
 - Custom Invites - create a custom invite for your Discord server and view join stats, etc.
   - [discord.me](https://discord.me)
@@ -78,7 +78,7 @@ An awesome list of things for the VoIP and chat application Discord.
   - [DiscordServ](https://discordserv.com/)
 
 
-## Official Resources
+## 📖 Official Resources
 
 - Servers
   - [Discord Testers](https://discord.gg/testers)
