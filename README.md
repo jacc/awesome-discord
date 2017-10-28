@@ -8,7 +8,8 @@
 
 - [Bots](#bots)
 - [Programming Languages](#programming-languages)
-
+- [Community](#community)
+- [Resources](#resources)
 
 ## Bots
 
@@ -30,8 +31,6 @@
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
 
 
-
-
 ## Programming Languages
 
 - Node.js
@@ -47,3 +46,26 @@
 - Dart
   - [nyx](https://github.com/hackzzila/nyx)
 
+## Community
+
+- Custom Invites
+  - [discord.me](https://discord.me)
+  - [discord.io](https://discord.io)
+- Server Lists
+  - [discord.me](https://discord.me)
+  - [DiscordServers](https://discordservers.com)
+  - [DiscordList.net](https://discordlist.net)
+  - [DiscordList.com](https://discordlist.com)
+  - [DiscordList.me](https://discordlist.me)
+  - [DiscordHub](https://discordhub.com)
+  - [DiscordServ](https://discordserv.com/)
+
+
+## Resources
+
+- Servers
+  - [Discord Testers](https://discord.gg/testers)
+  - [Discord API](https://discord.gg/api)
+  - [Discord Feedback](https://discord.gg/discord-feedback)
+- URLS
+  - [Developer Documentation](https://discordapp.com/developers)
