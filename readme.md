@@ -1,6 +1,6 @@
 <h1 align="center">
     
-<img width="400" src="https://raw.githubusercontent.com/jacc/awesome-discord/master/oof.png" alt="Awesome">
+<img width="400" src="https://raw.githubusercontent.com/jacc/awesome-discord/master/ad.png" alt="Awesome" href='https://discordapp.com'>
 	<br>
 	<br>
 </h1>
