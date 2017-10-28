@@ -48,10 +48,10 @@
 
 ## Community
 
-- Custom Invites
+Custom Invites
   - [discord.me](https://discord.me)
   - [discord.io](https://discord.io)
-- Server Lists
+Server Lists
   - [discord.me](https://discord.me)
   - [DiscordServers](https://discordservers.com)
   - [DiscordList.net](https://discordlist.net)
@@ -63,9 +63,9 @@
 
 ## Resources
 
-- Servers
+Servers
   - [Discord Testers](https://discord.gg/testers)
   - [Discord API](https://discord.gg/api)
   - [Discord Feedback](https://discord.gg/discord-feedback)
-- URLS
+URLS
   - [Developer Documentation](https://discordapp.com/developers)
