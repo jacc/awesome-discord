@@ -1,6 +1,8 @@
 <h1 align="center">
-
-
+    
+<img width="400" src="https://raw.githubusercontent.com/jacc/awesome-discord/master/oof.png" alt="Awesome">
+	<br>
+	<br>
 </h1>
 
 
