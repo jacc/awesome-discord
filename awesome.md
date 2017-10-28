@@ -10,7 +10,7 @@
 - [Programming Languages](#programming-languages)
 - [Addons](#addons)
 - [Community](#community)
-- [Resources](#resources)
+- [Resources](#official-resources)
 
 ## Bots
 
@@ -55,10 +55,10 @@
 
 ## Community
 
-- Custom Invites
+- Custom Invites - create a custom invite for your Discord server and view join stats, etc.
   - [discord.me](https://discord.me)
   - [discord.io](https://discord.io)
-- Server Lists
+- Server Lists - place your server on a list for free advertising.
   - [discord.me](https://discord.me)
   - [DiscordServers](https://discordservers.com)
   - [DiscordList.net](https://discordlist.net)
@@ -68,7 +68,7 @@
   - [DiscordServ](https://discordserv.com/)
 
 
-## Resources
+## Official Resources
 
 - Servers
   - [Discord Testers](https://discord.gg/testers)
