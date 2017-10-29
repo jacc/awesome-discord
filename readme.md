@@ -79,7 +79,7 @@
   - [DiscordHub](https://discordhub.com)
   - [DiscordServ](https://discordserv.com/)
 - Developer Groups
-  - [Memework] - [website](https://memework.org) | [github](https://github.com/memework)
+  - Memework - [website](https://memework.org) | [github](https://github.com/memework)
 
 ## 📖 Official Resources
 
