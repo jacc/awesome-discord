@@ -78,7 +78,8 @@
   - [DiscordList.me](https://discordlist.me)
   - [DiscordHub](https://discordhub.com)
   - [DiscordServ](https://discordserv.com/)
-
+- Developer Groups
+  - [Memework] - [website](https://memework.org) | [github](https://github.com/memework)
 
 ## 📖 Official Resources
 
@@ -88,3 +89,4 @@
   - [Discord Feedback](https://discord.gg/discord-feedback)
 - URLS
   - [Developer Documentation](https://discordapp.com/developers)
+  - [Discord Nitro](https://discordapp.com/nitro)
