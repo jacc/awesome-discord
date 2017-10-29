@@ -55,6 +55,8 @@
   - [discorcr](https://github.com/meew0/discordcr)
 - Dart
   - [nyx](https://github.com/hackzzila/nyx)
+- Python
+  - [discord.py](https://github.com/Rapptz/discord.py)
   
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
