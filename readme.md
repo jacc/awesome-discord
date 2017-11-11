@@ -10,7 +10,7 @@
 <p align='center'>If you wish to contribute, please read <code><a href='https://github.com/jacc/awesome-discord/blob/master/contributing.md'>the contributing guide</a></code>.</p></strong>
 <p align='center'>An awesome list of things for the VoIP and chat application Discord.</p>
 
-## Contents
+## 📝 Contents
 
 - [Bots](#bots)
 - [Programming Languages](#programming-languages)
