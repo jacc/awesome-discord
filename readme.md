@@ -62,6 +62,11 @@
 - Java
   - [JDA](https://github.com/DV8FromTheWorld/JDA/)
   - [Javacord](https://github.com/BtoBastian/Javacord)
+  - [Discord4J](https://github.com/austinv11/Discord4J)
+- Lua
+  - [Discordia](https://github.com/SinisterRectus/Discordia)
+  - [Litcord](https://github.com/satom99/litcord)
+  
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
