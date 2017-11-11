@@ -1,6 +1,6 @@
 <h1 align="center">
     
-<img width="800" src="https://raw.githubusercontent.com/jacc/awesome-discord/master/ad.png" alt="Awesome" href='https://discordapp.com'>
+<img width="600" src="https://raw.githubusercontent.com/jacc/awesome-discord/master/ad.png" alt="Awesome" href='https://discordapp.com'>
 	<br>
 </h1>
 
@@ -66,7 +66,9 @@
 - Lua
   - [Discordia](https://github.com/SinisterRectus/Discordia)
   - [Litcord](https://github.com/satom99/litcord)
-  
+- Rust
+  - [Serenity](https://github.com/zeyla/serenity)
+  - [discord-rs](https://github.com/SpaceManiac/discord-rs)
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
