@@ -7,7 +7,7 @@
 
 
 
-# Awesome Discord [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<center>[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)</center>
 
 <strong><p align="center">✨ To get here, just go to <code><a href='http://coolcord.ga'>coolcord.ga</a></code> ✨</p>
 <p align='center'>If you wish to contribute, please read <code><a href='https://github.com/jacc/awesome-discord/blob/master/contributing.md'>the contributing guide</a></code>.</p></strong>
