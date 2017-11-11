@@ -98,3 +98,4 @@
 - URLS
   - [Developer Documentation](https://discordapp.com/developers)
   - [Discord Nitro](https://discordapp.com/nitro)
+  - [Discord Blog](https://discordapp.com/blog)
