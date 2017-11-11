@@ -2,12 +2,9 @@
     
 <img width="600" src="https://raw.githubusercontent.com/jacc/awesome-discord/master/ad.png" alt="Awesome" href='https://discordapp.com'>
 	<br>
-
-
-
-
-<center><img src="https://awesome.re/badge.svg" href="awesome.re"></center>
 </h1>
+
+<img src="https://awesome.re/badge.svg" href="awesome.re" align='center'>
 
 <strong><p align="center">✨ To get here, just go to <code><a href='http://coolcord.ga'>coolcord.ga</a></code> ✨</p>
 <p align='center'>If you wish to contribute, please read <code><a href='https://github.com/jacc/awesome-discord/blob/master/contributing.md'>the contributing guide</a></code>.</p></strong>
