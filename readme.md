@@ -59,7 +59,9 @@
 - Python
   - [discord.py](https://github.com/Rapptz/discord.py)
   - [disco](https://github.com/b1naryth1ef/disco)
-  
+- Java
+  - [JDA](https://github.com/DV8FromTheWorld/JDA/)
+  - [Javacord](https://github.com/BtoBastian/Javacord)
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
