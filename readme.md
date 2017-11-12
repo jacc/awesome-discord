@@ -87,7 +87,8 @@
   - [DiscordServ](https://discordserv.com/)
 - Developer Groups
   - Memework - [website](https://memework.org) | [github](https://github.com/memework)
-
+- Emojis
+  - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
 ## 📖 Official Resources
 
 - Servers
