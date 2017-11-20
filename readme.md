@@ -4,7 +4,7 @@
 	<br>
 </h1>
 
-<p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p>
+<p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
 
 <strong><p align="center">✨ To get here, just go to <code><a href='http://coolcord.ga'>coolcord.ga</a></code> ✨</p>
 <p align='center'>If you wish to contribute, please read <code><a href='https://github.com/jacc/awesome-discord/blob/master/contributing.md'>the contributing guide</a></code>.</p></strong>
