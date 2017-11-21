@@ -41,7 +41,8 @@
 
 ## 💻 Programming Libraries
 
-![n.js logo]: hi
+**Node.js**: [discord.js](https://github.com/hydrabolt/discord.js/) [discordie](https://github.com/qeled/discordie) [discord.io](https://github.com/izy521/discord.io/) [eris](https://github.com/abalabahaha/eris)
+
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
@@ -78,4 +79,3 @@
   - [Discord Blog](https://blog.discordapp.com/)
   - [Discord Status](https://status.discordapp.com/)
   
-[n.js logo]: http://ad.jack.ga/node.png "Node.js"
