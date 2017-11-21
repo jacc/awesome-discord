@@ -66,6 +66,7 @@
   - Memework - [website](https://memework.org) | [github](https://github.com/memework)
 - Emojis
   - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
+  
 ## 📖 Official Resources
 
 - Servers
@@ -77,3 +78,5 @@
   - [Discord Nitro](https://discordapp.com/nitro)
   - [Discord Blog](https://blog.discordapp.com/)
   - [Discord Status](https://status.discordapp.com/)
+  
+[n.js logo]: https://www.shareicon.net/data/2015/09/11/99371_javascript_512x512.png "Node.js"
