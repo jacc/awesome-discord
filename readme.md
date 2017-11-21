@@ -41,8 +41,7 @@
 
 ## 💻 Programming Libraries
 
-![Node.js](http://jaystack.com/wp-content/uploads/2015/12/nodejs-logo-e1497443346889.png): [discord.js](https://github.com/hydrabolt/discord.js/)
-
+![n.js logo]: hi
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
