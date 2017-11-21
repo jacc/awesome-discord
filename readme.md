@@ -41,14 +41,14 @@
 
 ## 💻 Programming Libraries
 
-| Node.js                                                |   |   |   |   |
-|--------------------------------------------------------|---|---|---|---|
-| [discord.js](https://github.com/hydrabolt/discord.js/) |   |   |   |   |
-| [discordie](https://github.com/qeled/discordie)        |   |   |   |   |
-| [discord.io](https://github.com/izy521/discord.io/)    |   |   |   |   |
-|                                                        |   |   |   |   |
-|                                                        |   |   |   |   |
-|                                                        |   |   |   |   |
+| Node.js                                                | C#                                                           | Crystal                                         | Dart                                    |   |
+|--------------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------|-----------------------------------------|---|
+| [discord.js](https://github.com/hydrabolt/discord.js/) | [Discord.Net](https://github.com/RogueException/Discord.Net) | [discordcr](https://github.com/meew0/discordcr) | [nyx](https://github.com/hackzzila/nyx) |   |
+| [discordie](https://github.com/qeled/discordie)        | [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)       |                                                 |                                         |   |
+| [discord.io](https://github.com/izy521/discord.io/)    |                                                              |                                                 |                                         |   |
+| [eris](https://github.com/abalabahaha/eris)            |                                                              |                                                 |                                         |   |
+|                                                        |                                                              |                                                 |                                         |   |
+|                                                        |                                                              |                                                 |                                         |   |
 
 
 ## 🔗 Addons
