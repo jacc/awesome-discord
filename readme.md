@@ -12,11 +12,11 @@
 
 ## 📝 Contents
 
-- [Bots](#bots)
-- [Programming Languages](#programming-languages)
-- [Addons](#addons)
-- [Community](#community)
-- [Resources](#official-resources)
+- [Bots](#-bots)
+- [Programming Languages](#-programming-languages)
+- [Addons](#-addons)
+- [Community](#-community)
+- [Resources](#-official-resources)
 
 ## 🤖 Bots
 
