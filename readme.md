@@ -78,4 +78,4 @@
   - [Discord Blog](https://blog.discordapp.com/)
   - [Discord Status](https://status.discordapp.com/)
   
-[n.js logo]: https://www.shareicon.net/data/2015/09/11/99371_javascript_512x512.png "Node.js"
+[n.js logo]: https://ad.jack.ga/njs "Node.js"
