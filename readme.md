@@ -41,31 +41,16 @@
 
 ## 💻 Programming Libraries
 
-- Node.js
-  - [discord.js](https://github.com/hydrabolt/discord.js/)
-  - [discordie](https://github.com/qeled/discordie)
-  - [discord.io](https://github.com/izy521/discord.io/)
-  - [eris](https://github.com/abalabahaha/eris)
-- C# (C-Sharp)
-  - [Discord.Net](https://github.com/RogueException/Discord.Net)
-  - [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)
-- Crystal
-  - [discordcr](https://github.com/meew0/discordcr)
-- Dart
-  - [nyx](https://github.com/hackzzila/nyx)
-- Python
-  - [discord.py](https://github.com/Rapptz/discord.py)
-  - [disco](https://github.com/b1naryth1ef/disco)
-- Java
-  - [JDA](https://github.com/DV8FromTheWorld/JDA/)
-  - [Javacord](https://github.com/BtoBastian/Javacord)
-  - [Discord4J](https://github.com/austinv11/Discord4J)
-- Lua
-  - [Discordia](https://github.com/SinisterRectus/Discordia)
-  - [Litcord](https://github.com/satom99/litcord)
-- Rust
-  - [Serenity](https://github.com/zeyla/serenity)
-  - [discord-rs](https://github.com/SpaceManiac/discord-rs)
+| Node.js                                                |   |   |   |   |
+|--------------------------------------------------------|---|---|---|---|
+| [discord.js](https://github.com/hydrabolt/discord.js/) |   |   |   |   |
+| [discordie](https://github.com/qeled/discordie)        |   |   |   |   |
+| [discord.io](https://github.com/izy521/discord.io/)    |   |   |   |   |
+|                                                        |   |   |   |   |
+|                                                        |   |   |   |   |
+|                                                        |   |   |   |   |
+
+
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
