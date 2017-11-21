@@ -13,7 +13,7 @@
 ## 📝 Contents
 
 - [Bots](#-bots)
-- [Programming Languages](#-programming-languages)
+- [Programming Languages](#-programming-libraries)
 - [Addons](#-addons)
 - [Community](#-community)
 - [Resources](#-official-resources)
