@@ -16,7 +16,9 @@
 - [Programming Languages](#-programming-libraries)
 - [Addons](#-addons)
 - [Community](#-community)
+- [Partnered Servers](#-popular-servers)
 - [Resources](#-official-resources)
+
 
 ## 🤖 Bots
 
@@ -67,7 +69,16 @@
   - Terminal - [website](https://terminal.ink) | [github](https://github.com/terminal)
 - Emojis
   - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
-  
+
+## 🤝 Popular Servers
+
+- Reddit Servers
+	- [r/LoL](https://discord.gg/LoL)
+	- [r/Minecraft](https://discord.gg/Minecraft)
+	- [r/Skyrim](https://discord.gg/vTFseDj)
+  	- [r/Hearthstone](https://discordapp.com/invite/hearthstone#chat)
+	- [r/Overwatch](https://discord.gg/overwatch)
+	
 ## 📖 Official Resources
 
 - Servers
