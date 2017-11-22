@@ -16,7 +16,7 @@
 - [Programming Languages](#-programming-libraries)
 - [Addons](#-addons)
 - [Community](#-community)
-- [Partnered Servers](#-popular-servers)
+- [Popular Servers](#-popular-servers)
 - [Resources](#-official-resources)
 
 
