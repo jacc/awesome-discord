@@ -58,7 +58,7 @@
 - **Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
 
 ## 🔗 Addons
-**WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
+> **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - More widely used and faster, adds custom CSS support to Discord.
@@ -81,6 +81,9 @@
   - Terminal - [website](https://terminal.ink) | [github](https://github.com/terminal)
 - Emojis
   - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
+- Development Tutorials
+  > These tutorials will help you learn how to develop your own Discord bot!
+  - [YorkAARGH](https://github.com/YorkAARGH) - An extremely advanced coder with lots of discord.js skill under his belt. (Warning: Cussing): [Videos](https://www.youtube.com/watch?v=rVfjZrqoQ7o) | [Tutorial Bot GitHub](https://github.com/AnIdiotsGuide/Tutorial-Bot)
 
 ## 🤝 Popular Servers
 
