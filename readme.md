@@ -51,6 +51,11 @@
 **Go**: [Discordgo](https://github.com/bwmarrin/discordgo)  
 **Haskell**: [discord-hs](https://github.com/jano017/Discord.hs)  
 **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) [Javacord](https://github.com/BtoBastian/Javacord) [Discord4J](https://github.com/austinv11/Discord4J)  
+**Lua**: [Discordia](https://github.com/SinisterRectus/Discordia) [Litcord](https://github.com/satom99/litcord)  
+**Rust**: [Serenity](https://github.com/zeyla/serenity) [discord-rs](https://github.com/SpaceManiac/discord-rs)  
+**PHP**: [RestCord](https://github.com/restcord/restcord)  
+**Swift**: [Sword](https://github.com/Azoy/Sword)  
+**Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
 
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
