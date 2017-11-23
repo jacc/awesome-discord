@@ -16,7 +16,9 @@
 - [Programming Languages](#-programming-libraries)
 - [Addons](#-addons)
 - [Community](#-community)
+- [Popular Servers](#-popular-servers)
 - [Resources](#-official-resources)
+
 
 ## 🤖 Bots
 
@@ -41,31 +43,20 @@
 
 ## 💻 Programming Libraries
 
-- Node.js
-  - [discord.js](https://github.com/hydrabolt/discord.js/)
-  - [discordie](https://github.com/qeled/discordie)
-  - [discord.io](https://github.com/izy521/discord.io/)
-  - [eris](https://github.com/abalabahaha/eris)
-- C# (C-Sharp)
-  - [Discord.Net](https://github.com/RogueException/Discord.Net)
-  - [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)
-- Crystal
-  - [discordcr](https://github.com/meew0/discordcr)
-- Dart
-  - [nyx](https://github.com/hackzzila/nyx)
-- Python
-  - [discord.py](https://github.com/Rapptz/discord.py)
-  - [disco](https://github.com/b1naryth1ef/disco)
-- Java
-  - [JDA](https://github.com/DV8FromTheWorld/JDA/)
-  - [Javacord](https://github.com/BtoBastian/Javacord)
-  - [Discord4J](https://github.com/austinv11/Discord4J)
-- Lua
-  - [Discordia](https://github.com/SinisterRectus/Discordia)
-  - [Litcord](https://github.com/satom99/litcord)
-- Rust
-  - [Serenity](https://github.com/zeyla/serenity)
-  - [discord-rs](https://github.com/SpaceManiac/discord-rs)
+- **Node.js**: [discord.js](https://github.com/hydrabolt/discord.js/) [discordie](https://github.com/qeled/discordie) [discord.io](https://github.com/izy521/discord.io/) [eris](https://github.com/abalabahaha/eris)  
+- **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
+- **Crystal** [discordcr](https://github.com/meew0/discordcr)  
+- **Dart**: [nyx](https://github.com/hackzzila/nyx)  
+- **Python**: [discord.py](https://github.com/Rapptz/discord.py) [disco](https://github.com/b1naryth1ef/disco)  
+- **Go**: [Discordgo](https://github.com/bwmarrin/discordgo)  
+- **Haskell**: [discord-hs](https://github.com/jano017/Discord.hs)  
+- **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/) [Javacord](https://github.com/BtoBastian/Javacord) [Discord4J](https://github.com/austinv11/Discord4J)  
+- **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia) [Litcord](https://github.com/satom99/litcord)  
+- **Rust**: [Serenity](https://github.com/zeyla/serenity) [discord-rs](https://github.com/SpaceManiac/discord-rs)  
+- **PHP**: [RestCord](https://github.com/restcord/restcord)  
+- **Swift**: [Sword](https://github.com/Azoy/Sword)  
+- **Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
+
 ## 🔗 Addons
 **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
@@ -87,8 +78,19 @@
   - [DiscordServ](https://discordserv.com/)
 - Developer Groups
   - Memework - [website](https://memework.org) | [github](https://github.com/memework)
+  - Terminal - [website](https://terminal.ink) | [github](https://github.com/terminal)
 - Emojis
   - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
+
+## 🤝 Popular Servers
+
+- Reddit Servers
+	- [r/LoL](https://discord.gg/LoL)
+	- [r/Minecraft](https://discord.gg/Minecraft)
+	- [r/Skyrim](https://discord.gg/vTFseDj)
+  	- [r/Hearthstone](https://discordapp.com/invite/hearthstone#chat)
+	- [r/Overwatch](https://discord.gg/overwatch)
+	
 ## 📖 Official Resources
 
 - Servers
@@ -100,3 +102,4 @@
   - [Discord Nitro](https://discordapp.com/nitro)
   - [Discord Blog](https://blog.discordapp.com/)
   - [Discord Status](https://status.discordapp.com/)
+  
