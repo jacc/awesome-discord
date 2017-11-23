@@ -82,7 +82,9 @@
 - Emojis
   - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
 - Development Tutorials
+
   > These tutorials will help you learn how to develop your own Discord bot!
+  
   - [YorkAARGH](https://github.com/YorkAARGH) - An extremely advanced coder with lots of discord.js skill under his belt. (Warning: Cussing): [Videos](https://www.youtube.com/watch?v=rVfjZrqoQ7o) | [Tutorial Bot GitHub](https://github.com/AnIdiotsGuide/Tutorial-Bot)
 
 ## 🤝 Popular Servers
