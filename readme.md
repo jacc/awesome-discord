@@ -90,6 +90,7 @@
 ## 🤝 Popular Servers
 
 - Reddit Servers
+	- [r/apple](https://discord.gg/apple)
 	- [r/LoL](https://discord.gg/LoL)
 	- [r/Minecraft](https://discord.gg/Minecraft)
 	- [r/Skyrim](https://discord.gg/vTFseDj)
