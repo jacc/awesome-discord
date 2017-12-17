@@ -81,6 +81,7 @@
   - Terminal - [website](https://terminal.ink) | [github](https://github.com/terminal)
 - Emojis
   - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
+  - [DiscordEmoji.com](https://discordemoji.com)
 - Development Tutorials
 
   > These tutorials will help you learn how to develop your own Discord bot!
