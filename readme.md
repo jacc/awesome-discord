@@ -69,6 +69,8 @@
 - Custom Invites - create a custom invite for your Discord server and view join stats, etc.
   - [discord.me](https://discord.me)
   - [discord.io](https://discord.io)
+- Custom Bot Invites - create a custom invite link for your Discord bot.
+  - [bot.discord.io](https://bot.discord.io)
 - Server Lists - place your server on a list for free advertising.
   - [discord.me](https://discord.me)
   - [DiscordServers](https://discordservers.com)
