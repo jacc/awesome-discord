@@ -40,6 +40,7 @@
 - [Pokedex](https://discordapp.com/oauth2/authorize?client_id=206147222746824704&scope=bot&permissions=0) - View the Pokedex in Discord.
 - [AIRHORN SOLUTIONS](https://airhorn.solutions) - Airhorn soundboard.
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
+- [Blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge!
 
 
 ## 💻 Programming Libraries
