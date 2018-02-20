@@ -16,7 +16,6 @@
 - [Programming Languages](#-programming-libraries)
 - [Addons](#-addons)
 - [Community](#-community)
-- [Popular Servers](#-popular-servers)
 - [Resources](#-official-resources)
 
 
@@ -92,16 +91,6 @@
   
   - [YorkAARGH](https://github.com/YorkAARGH) - An extremely advanced coder with lots of discord.js skill under his belt. (Warning: Cussing): [Videos](https://www.youtube.com/watch?v=rVfjZrqoQ7o) | [Tutorial Bot GitHub](https://github.com/AnIdiotsGuide/Tutorial-Bot)
 
-## 🤝 Popular Servers
-
-- Reddit Servers
-	- [r/apple](https://discord.gg/apple)
-	- [r/LoL](https://discord.gg/LoL)
-	- [r/Minecraft](https://discord.gg/Minecraft)
-	- [r/Skyrim](https://discord.gg/vTFseDj)
-  	- [r/Hearthstone](https://discordapp.com/invite/hearthstone#chat)
-	- [r/Overwatch](https://discord.gg/overwatch)
-	
 ## 📖 Official Resources
 
 - Servers
