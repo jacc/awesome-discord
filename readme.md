@@ -64,6 +64,8 @@
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - More widely used and faster, adds custom CSS support to Discord.
+- [DiscordInjections](https://github.com/DiscordInjections/DiscordInjections) - The successor to BeautifulDiscord, also adds custom JavaScript & CSS support to Discord.
+- [Mydiscord](https://github.com/justinoboyle/mydiscord) - A BeautifulDiscord fork that includes JavaScript support.
 
 ## 💁‍♂️ Community
 
