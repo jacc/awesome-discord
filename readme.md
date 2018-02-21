@@ -113,4 +113,7 @@
   - [Discord Nitro](https://discordapp.com/nitro)
   - [Discord Blog](https://blog.discordapp.com/)
   - [Discord Status](https://status.discordapp.com/)
-  
+- Community Programs 
+  - [Hypesquad](https://discordapp.com/hypesquad) 
+  - [Partners](https://discordapp.com/partners)
+  - [Verification](https://discordapp.com/verification)
