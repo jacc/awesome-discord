@@ -58,6 +58,7 @@
 - **PHP**: [RestCord](https://github.com/restcord/restcord)  
 - **Swift**: [Sword](https://github.com/Azoy/Sword)  
 - **Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
+- **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
 
 ## 🔗 Addons
 **[Back To Top](#-contents)**
