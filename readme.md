@@ -21,9 +21,7 @@
 
 
 ## 🤖 Bots
-
-<p align="right"><a href='#-contents'>[Back To Top]</a></p>
-
+**[Back To Top](#-contents)**
 - [Mee6](https://mee6.xyz) - The most popular bot on Discord, has many features useful for everyday Discord servers.
 - [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, custom commands
 - [Vexera](https://vexera.io) - High quality music bot with a few other features.
@@ -46,9 +44,7 @@
 
 
 ## 💻 Programming Libraries
-
-<p align="right"><a href='#-contents'>[Back To Top]</a></p>
-
+**[Back To Top](#-contents)**
 - **Node.js**: [discord.js](https://github.com/hydrabolt/discord.js/) [discordie](https://github.com/qeled/discordie) [discord.io](https://github.com/izy521/discord.io/) [eris](https://github.com/abalabahaha/eris)  
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net) [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
 - **Crystal** [discordcr](https://github.com/meew0/discordcr)  
@@ -64,18 +60,14 @@
 - **Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
 
 ## 🔗 Addons
-
-<p align="right"><a href='#-contents'>[Back To Top]</a></p>
-
+**[Back To Top](#-contents)**
 > **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - More widely used and faster, adds custom CSS support to Discord.
 
 ## 💁‍♂️ Community
-
-<p align="right"><a href='#-contents'>[Back To Top]</a></p>
-
+**[Back To Top](#-contents)**
 - Custom Invites - create a custom invite for your Discord server and view join stats, etc.
   - [discord.me](https://discord.me)
   - [discord.io](https://discord.io)
@@ -102,9 +94,7 @@
   - [YorkAARGH](https://github.com/YorkAARGH) - An extremely advanced coder with lots of discord.js skill under his belt. (Warning: Cussing): [Videos](https://www.youtube.com/watch?v=rVfjZrqoQ7o) | [Tutorial Bot GitHub](https://github.com/AnIdiotsGuide/Tutorial-Bot)
 
 ## 🤝 Popular Servers
-
-<p align="right"><a href='#-contents'>[Back To Top]</a></p>
-
+**[Back To Top](#-contents)**
 - Reddit Servers
 	- [r/apple](https://discord.gg/apple)
 	- [r/LoL](https://discord.gg/LoL)
