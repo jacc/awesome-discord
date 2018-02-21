@@ -104,9 +104,7 @@
 	- [r/Overwatch](https://discord.gg/overwatch)
 	
 ## 📖 Official Resources
-
-<p align="right"><a href='#-contents'>[Back To Top]</a></p>
-
+**[Back To Top](#-contents)**
 - Servers
   - [Discord Testers](https://discord.gg/testers)
   - [Discord API](https://discord.gg/api)
