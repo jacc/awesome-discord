@@ -17,7 +17,8 @@
 - [Addons](#-addons)
 - [Community](#-community)
 - [Popular Servers](#-popular-servers)
-- [Resources](#-official-resources)
+- [Community Resources](#-community-resources)
+- [Official Resources](#-official-resources)
 
 
 ## 🤖 Bots
@@ -112,6 +113,13 @@
 - [**/r/discordapp**](https://www.reddit.com/r/discordapp/) - The official Discord subreddit.
 - [/r/discord_bots](https://www.reddit.com/r/Discord_Bots/) - A subreddit dedicated to discord bots.
 - [/r/discordservers](https://www.reddit.com/r/discordservers/) - A subreddit dedicated to discord servers.
+
+## 📔 Community Resources
+**[Back To Top](#-contents)**
+- Guides
+	- [Discord 101](https://gist.github.com/Tornado1878/eca384ad6cf3c724be0bcc3d9f557526)
+  - [Discord Guide](https://discordguide.github.io)
+  - [Server Advertisement Guide](https://austinhuang.me/advertising)
 
 ## 📖 Official Resources
 **[Back To Top](#-contents)**
