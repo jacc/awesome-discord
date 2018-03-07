@@ -72,7 +72,7 @@
 - [DiscordForge](https://github.com/DiscordForge/DiscordForge) - Adds custom JavaScript & CSS support to Discord.
 - [Discord.Mods](https://github.com/tscs37/discord.mods) - Modloader with a focus on offloading as much as possible into external code.
 
-## 💁‍♂️ Community
+## 💁‍ Community
 **[Back To Top](#-contents)**
 - Custom Invites - create a custom invite for your Discord server and view join stats, etc.
   - [discord.me](https://discord.me)
