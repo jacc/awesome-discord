@@ -16,7 +16,6 @@
 - [Programming Languages](#-programming-libraries)
 - [Addons](#-addons)
 - [Community](#-community)
-- [Resources](#-official-resources)
 - [Community Resources](#-community-resources)
 - [Official Resources](#-official-resources)
 
