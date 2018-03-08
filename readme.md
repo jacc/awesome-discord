@@ -16,7 +16,6 @@
 - [Programming Languages](#-programming-libraries)
 - [Addons](#-addons)
 - [Community](#-community)
-- [Popular Servers](#-popular-servers)
 - [Community Resources](#-community-resources)
 - [Official Resources](#-official-resources)
 
@@ -98,16 +97,6 @@
   > These tutorials will help you learn how to develop your own Discord bot!
   
   - [YorkAARGH](https://github.com/YorkAARGH) - An extremely advanced coder with lots of discord.js skill under his belt. (Warning: Cussing): [Videos](https://www.youtube.com/watch?v=rVfjZrqoQ7o) | [Tutorial Bot GitHub](https://github.com/AnIdiotsGuide/Tutorial-Bot)
-
-## 🤝 Popular Servers
-**[Back To Top](#-contents)**
-- Reddit Servers
-	- [r/apple](https://discord.gg/apple)
-	- [r/LoL](https://discord.gg/LoL)
-	- [r/Minecraft](https://discord.gg/Minecraft)
-	- [r/Skyrim](https://discord.gg/vTFseDj)
-  	- [r/Hearthstone](https://discordapp.com/invite/hearthstone#chat)
-	- [r/Overwatch](https://discord.gg/overwatch)
 
 ## <img src="https://about.reddit.com/img/snoo.ed77b63867581a2a433b25df98f560c5.svg" height="22"> Popular Subreddits
 **[Back To Top](#-contents)**
