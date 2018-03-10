@@ -120,6 +120,7 @@
   - [Discord Testers](https://discord.gg/testers)
   - [Discord API](https://discord.gg/api)
   - [Discord Feedback](https://discord.gg/discord-feedback)
+  - [Discord Events](https://discord.gg/events)
 - URLS
   - [Developer Documentation](https://discordapp.com/developers)
   - [Discord Nitro](https://discordapp.com/nitro)
