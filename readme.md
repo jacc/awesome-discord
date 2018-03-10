@@ -42,6 +42,7 @@
 - [AIRHORN SOLUTIONS](https://airhorn.solutions) - Airhorn soundboard.
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
 - [Blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge!
+- [lolbot](https://lolbot.lmao.tf) - Bot with lots of random fun features.
 
 
 ## 💻 Programming Libraries
