@@ -42,6 +42,7 @@
 - [AIRHORN SOLUTIONS](https://airhorn.solutions) - Airhorn soundboard.
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
 - [Blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge!
+- [Tweetcord](https://discordbots.org/bot/tweetcord) - The world's first Twitter to Discord bridge. Allows you to [tweet](https://why-are-you-buying-clothes-at.the-soup.store/2a95fd.png), [make streams](http://why-are-you-buying-clothes-at.the-soup.store/7f6a05.mp4) and much more - all from your own twitter account.
 
 
 ## 💻 Programming Libraries
