@@ -74,6 +74,7 @@
 - [Mydiscord](https://github.com/justinoboyle/mydiscord) - A BeautifulDiscord fork that includes JavaScript support.
 - [DiscordForge](https://github.com/DiscordForge/DiscordForge) - Adds custom JavaScript & CSS support to Discord.
 - [Discord.Mods](https://github.com/tscs37/discord.mods) - Modloader with a focus on offloading as much as possible into external code.
+- [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using an easy Electron app.
 
 ## 💁‍ Community
 **[Back To Top](#-contents)**
