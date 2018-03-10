@@ -113,6 +113,7 @@
   - [Discord 101](https://gist.github.com/Tornado1878/eca384ad6cf3c724be0bcc3d9f557526)
   - [Discord Guide](https://discordguide.github.io)
   - [Server Advertisement Guide](https://austinhuang.me/advertising)
+  - [Discord Wiki](https://discordia.me)
 
 ## 📖 Official Resources
 **[Back To Top](#-contents)**
