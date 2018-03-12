@@ -16,6 +16,7 @@
 - [Bots](#-bots)
 - [Programming Languages](#-programming-libraries)
 - [Addons](#-addons)
+- [Mods](#-mods)
 - [Community](#-community)
 - [Subreddits](#-popular-subreddits)
 - [Community Resources](#-community-resources)
@@ -66,7 +67,11 @@
 
 ## 🔗 Addons
 **[Back To Top](#-contents)**
-> **WARNING - Discord does not endorse nor "allow" these addons - use at your own risk.**
+- [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
+
+## 💬 Mods
+**[Back To Top](#-contents)**
+> **WARNING - Unlike the Addons, Discord does not endorse nor "allow" these Mods - use at your own risk.**
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - More widely used and faster, adds custom CSS support to Discord.
@@ -74,7 +79,6 @@
 - [Mydiscord](https://github.com/justinoboyle/mydiscord) - A BeautifulDiscord fork that includes JavaScript support.
 - [DiscordForge](https://github.com/DiscordForge/DiscordForge) - Adds custom JavaScript & CSS support to Discord.
 - [Discord.Mods](https://github.com/tscs37/discord.mods) - Modloader with a focus on offloading as much as possible into external code.
-- [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using an easy Electron app.
 
 ## 💁‍ Community
 **[Back To Top](#-contents)**
