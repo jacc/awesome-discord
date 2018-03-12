@@ -125,9 +125,6 @@
 - [DiscordServ](https://discordserv.com/)
 - [Disboard](https://disboard.org/)
 
-### Developer Groups
-- Terminal - [website](https://terminal.ink) | [github](https://github.com/terminal)
-
 ### Emojis
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
 - [DiscordEmoji.com](https://discordemoji.com)
@@ -137,4 +134,4 @@
 - [Discord Guide](https://discordguide.github.io)
 - [Server Advertisement Guide](https://austinhuang.me/advertising)
 - [Discord Wiki](https://discordia.me)
-- [YorkAARGH](https://github.com/YorkAARGH) - An extremely advanced coder with lots of discord.js skill under his belt. (Warning: Cussing): [Videos](https://www.youtube.com/watch?v=rVfjZrqoQ7o) | [Tutorial Bot GitHub](https://github.com/AnIdiotsGuide/Tutorial-Bot)
+- [An Idiot's Guide](https://anidiots.guide) - An extremely advanced coder with lots of discord.js skill under his belt.
