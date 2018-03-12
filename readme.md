@@ -17,10 +17,9 @@
 - [Programming Languages](#-programming-libraries)
 - [Tools](#-tools)
 - [Modifications](#-modifications)
-- [Community](#-community)
 - [Subreddits](#-popular-subreddits)
-- [Community Resources](#-community-resources)
 - [Official Resources](#-official-resources)
+- [Community Resources](#-community-resources)
 
 
 ## 🤖 Bots
@@ -80,60 +79,62 @@
 - [DiscordForge](https://github.com/DiscordForge/DiscordForge) - Adds custom JavaScript & CSS support to Discord.
 - [Discord.Mods](https://github.com/tscs37/discord.mods) - Modloader with a focus on offloading as much as possible into external code.
 
-## 💁‍ Community
-**[Back To Top](#-contents)**
-- Custom Invites - Create a custom invite for your Discord server and view join stats, etc.
-  - [discord.me](https://discord.me)
-  - [discord.io](https://discord.io)
-- Custom Bot Invites - Create a custom invite link for your Discord bot.
-  - [bot.discord.io](https://bot.discord.io)
-- Server Lists - Place your server on a list for free advertising.
-  - [discord.me](https://discord.me)
-  - [DiscordServers](https://discordservers.com)
-  - [DiscordList.net](https://discordlist.net)
-  - [DiscordList.com](https://discordlist.com)
-  - [DiscordList.me](https://discordlist.me)
-  - [DiscordHub](https://discordhub.com)
-  - [DiscordServ](https://discordserv.com/)
-  - [Disboard](https://disboard.org/)
-- Developer Groups
-  - Terminal - [website](https://terminal.ink) | [github](https://github.com/terminal)
-- Emojis
-  - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
-  - [DiscordEmoji.com](https://discordemoji.com)
-- Development Tutorials
-
-  > These tutorials will help you learn how to develop your own Discord bot!
-  
-  - [YorkAARGH](https://github.com/YorkAARGH) - An extremely advanced coder with lots of discord.js skill under his belt. (Warning: Cussing): [Videos](https://www.youtube.com/watch?v=rVfjZrqoQ7o) | [Tutorial Bot GitHub](https://github.com/AnIdiotsGuide/Tutorial-Bot)
-
-## <img src="https://about.reddit.com/img/snoo.ed77b63867581a2a433b25df98f560c5.svg" height="22"> Popular Subreddits
+## <img src="https://about.reddit.com/img/snoo.ed77b63867581a2a433b25df98f560c5.svg" height="22"> Subreddits
 **[Back To Top](#-contents)**
 - [**/r/discordapp**](https://www.reddit.com/r/discordapp/) - The official Discord subreddit.
 - [/r/discord_bots](https://www.reddit.com/r/Discord_Bots/) - A subreddit dedicated to discord bots.
 - [/r/discordservers](https://www.reddit.com/r/discordservers/) - A subreddit dedicated to discord servers.
 
-## 📔 Community Resources
-**[Back To Top](#-contents)**
-- Guides
-  - [Discord 101](https://gist.github.com/Tornado1878/eca384ad6cf3c724be0bcc3d9f557526)
-  - [Discord Guide](https://discordguide.github.io)
-  - [Server Advertisement Guide](https://austinhuang.me/advertising)
-  - [Discord Wiki](https://discordia.me)
-
 ## 📖 Official Resources
 **[Back To Top](#-contents)**
-- Servers
-  - [Discord Testers](https://discord.gg/testers) - Test, improve, and report Discord bugs.
-  - [Discord API](https://discord.gg/api) - Discussion, support, and more related to Discord's API.
-  - [Discord Feedback](https://discord.gg/discord-feedback) - Give and vote on feedback about Discord.
-  - [Discord Events](https://discord.gg/events) - News and announcements related to Official Discord Events.
-- Links
-  - [Developer Documentation](https://discordapp.com/developers) - Documentation for using Discord's API.
-  - [Discord Blog](https://blog.discordapp.com/) - Discord's Blog, where you can find change logs and more.
-  - [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks.
-  - [Discord Status](https://status.discordapp.com/) - Check Discord's current status, and see any planned maintenance.
-- Community Programs 
-  - [HypeSquad](https://discordapp.com/hypesquad) - Join the HypeSquad and let Discord support your gaming community.
-  - [Partners](https://discordapp.com/partners) - Join the Discord fam and get partner-only tools to make you stand out.
-  - [Verification](https://discordapp.com/verification) - Verify your server so people know where to find their favorite artists, esports organizations, and game studios.
+
+### Servers
+- [Discord Testers](https://discord.gg/testers) - Test, improve, and report Discord bugs.
+- [Discord API](https://discord.gg/api) - Discussion, support, and more related to Discord's API.
+- [Discord Feedback](https://discord.gg/discord-feedback) - Give and vote on feedback about Discord.
+- [Discord Events](https://discord.gg/events) - News and announcements related to Official Discord Events.
+
+### Links
+- [Developer Documentation](https://discordapp.com/developers) - Documentation for using Discord's API.
+- [Discord Blog](https://blog.discordapp.com/) - Discord's Blog, where you can find change logs and more.
+- [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks.
+- [Discord Status](https://status.discordapp.com/) - Check Discord's current status, and see any planned maintenance.
+
+### Community Programs 
+- [HypeSquad](https://discordapp.com/hypesquad) - Join the HypeSquad and let Discord support your gaming community.
+- [Partners](https://discordapp.com/partners) - Join the Discord fam and get partner-only tools to make you stand out.
+- [Verification](https://discordapp.com/verification) - Verify your server so people know where to find their favorite artists, esports organizations, and game studios.
+
+## 💁‍ Community Resources
+**[Back To Top](#-contents)**
+
+### Custom Invites - Create a custom invite for your Discord server and view join stats, etc.
+- [discord.me](https://discord.me)
+- [discord.io](https://discord.io)
+
+### Custom Bot Invites - Create a custom invite link for your Discord bot.
+- [bot.discord.io](https://bot.discord.io)
+
+### Server Lists - Place your server on a list for free advertising.
+- [discord.me](https://discord.me)
+- [DiscordServers](https://discordservers.com)
+- [DiscordList.net](https://discordlist.net)
+- [DiscordList.com](https://discordlist.com)
+- [DiscordList.me](https://discordlist.me)
+- [DiscordHub](https://discordhub.com)
+- [DiscordServ](https://discordserv.com/)
+- [Disboard](https://disboard.org/)
+
+### Developer Groups
+- Terminal - [website](https://terminal.ink) | [github](https://github.com/terminal)
+
+### Emojis
+- [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
+- [DiscordEmoji.com](https://discordemoji.com)
+
+### Guides and Tutorials
+- [Discord 101](https://gist.github.com/Tornado1878/eca384ad6cf3c724be0bcc3d9f557526)
+- [Discord Guide](https://discordguide.github.io)
+- [Server Advertisement Guide](https://austinhuang.me/advertising)
+- [Discord Wiki](https://discordia.me)
+- [YorkAARGH](https://github.com/YorkAARGH) - An extremely advanced coder with lots of discord.js skill under his belt. (Warning: Cussing): [Videos](https://www.youtube.com/watch?v=rVfjZrqoQ7o) | [Tutorial Bot GitHub](https://github.com/AnIdiotsGuide/Tutorial-Bot)
