@@ -15,8 +15,8 @@
 
 - [Bots](#-bots)
 - [Programming Languages](#-programming-libraries)
-- [Addons](#-addons)
-- [Mods](#-mods)
+- [Tools](#-tools)
+- [Modifications](#-modifications)
 - [Community](#-community)
 - [Subreddits](#-popular-subreddits)
 - [Community Resources](#-community-resources)
@@ -65,13 +65,13 @@
 - **Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
 - **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
 
-## 🔗 Addons
+## 🔗 Tools
 **[Back To Top](#-contents)**
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
 
-## 💬 Mods
+## 💬 Modifications
 **[Back To Top](#-contents)**
-> **WARNING - Unlike the Addons, Discord does not endorse nor "allow" these Mods - use at your own risk.**
+> **WARNING - Unlike Tools, Discord does not endorse nor "allow" the following Modifications - use at your own risk.**
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - More widely used and faster, adds custom CSS support to Discord.
