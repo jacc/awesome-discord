@@ -26,25 +26,25 @@
 ## 🤖 Bots
 **[Back To Top](#-contents)**
 - [Mee6](https://mee6.xyz) - The most popular bot on Discord, has many features useful for everyday Discord servers.
-- [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, custom commands
+- [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, and custom commands.
 - [Vexera](https://vexera.io) - High quality music bot with a few other features.
 - [Google](https://google.gus.host/) - Brings the power of Google to Discord.
 - [DiscordRPG](https://discordapp.com/oauth2/authorize?&client_id=170915256833540097&scope=bot&permissions=0) - RPG text game in Discord.
 - [dabBot](https://dabbot.org) - Music bot with incredibly high quality.
 - [PvPCraft](https://bot.pvpcraft.ca) - Multipurpose bot.
-- [Dank Memer](https://discordapp.com/oauth2/authorize?client_id=270904126974590976&scope=bot&permissions=3533888) - Best meme bot for Discord. No other functions.
+- [Dank Memer](https://discordapp.com/oauth2/authorize?client_id=270904126974590976&scope=bot&permissions=3533888) - Best meme bot for Discord, no other functions.
 - [OverwatchBot](https://discordapp.com/login?redirect_to=%2Foauth2%2Fauthorize%3F%26client_id%3D188064750351941633%26scope%3Dbot) - Retrieve Overwatch game statistics.
-- [Nadeko](https://discordapp.com/oauth2/authorize?client_id=170254782546575360&scope=bot&permissions=66186303) - Multipurpose bot.
+- [Nadeko](https://discordapp.com/oauth2/authorize?client_id=170254782546575360&scope=bot&permissions=66186303) - Popular multipurpose bot.
 - [NotSoBot](https://discordapp.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D170903265565736960%26scope%3Dbot) - Bot for image manipulation and meme making.
-- [DSL](https://discordservers.com) - Bot that places your server on DiscordServers.com
+- [DSL](https://discordservers.com) - Bot that places your server on DiscordServers.
 - [Pancake](https://pancakebot.me) - Multiple features with games, roleplay, music, and more.
 - [PollBot](https://discordapp.com/oauth2/authorize?client_id=313929155496378371&scope=bot&permissions=3361856) - Poll the server.
 - [Now Live](https://discordapp.com/oauth2/authorize?&client_id=240729664035880961&scope=bot&permissions=8) - Bot that announces when a Twitch or YouTube streamer goes live.
 - [Pokedex](https://discordapp.com/oauth2/authorize?client_id=206147222746824704&scope=bot&permissions=0) - View the Pokedex in Discord.
 - [AIRHORN SOLUTIONS](https://airhorn.solutions) - Airhorn soundboard.
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
-- [Blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge!
-- [lolbot](https://lolbot.lmao.tf) - Bot with lots of random fun features
+- [Blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
+- [lolbot](https://lolbot.lmao.tf) - Bot with lots of random fun features.
 - [Tweetcord](https://discordbots.org/bot/tweetcord) - The world's first Twitter to Discord bridge. Allows you to [tweet](https://why-are-you-buying-clothes-at.the-soup.store/2a95fd.png), [make streams](http://why-are-you-buying-clothes-at.the-soup.store/7f6a05.mp4) and much more - all from your own twitter account.
 
 
@@ -82,12 +82,12 @@
 
 ## 💁‍ Community
 **[Back To Top](#-contents)**
-- Custom Invites - create a custom invite for your Discord server and view join stats, etc.
+- Custom Invites - Create a custom invite for your Discord server and view join stats, etc.
   - [discord.me](https://discord.me)
   - [discord.io](https://discord.io)
-- Custom Bot Invites - create a custom invite link for your Discord bot.
+- Custom Bot Invites - Create a custom invite link for your Discord bot.
   - [bot.discord.io](https://bot.discord.io)
-- Server Lists - place your server on a list for free advertising.
+- Server Lists - Place your server on a list for free advertising.
   - [discord.me](https://discord.me)
   - [DiscordServers](https://discordservers.com)
   - [DiscordList.net](https://discordlist.net)
@@ -128,9 +128,8 @@
   - [Discord API](https://discord.gg/api)
   - [Discord Feedback](https://discord.gg/discord-feedback)
   - [Discord Events](https://discord.gg/events)
-- URLS
+- Links
   - [Developer Documentation](https://discordapp.com/developers)
-  - [Discord Nitro](https://discordapp.com/nitro)
   - [Discord Blog](https://blog.discordapp.com/)
   - [Discord Status](https://status.discordapp.com/)
 - Community Programs 
