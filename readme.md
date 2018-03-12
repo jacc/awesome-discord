@@ -124,16 +124,16 @@
 ## 📖 Official Resources
 **[Back To Top](#-contents)**
 - Servers
-  - [Discord Testers](https://discord.gg/testers)
-  - [Discord API](https://discord.gg/api)
-  - [Discord Feedback](https://discord.gg/discord-feedback)
-  - [Discord Events](https://discord.gg/events)
+  - [Discord Testers](https://discord.gg/testers) - Test, improve, and report Discord bugs.
+  - [Discord API](https://discord.gg/api) - Discussion, support, and more related to Discord's API.
+  - [Discord Feedback](https://discord.gg/discord-feedback) - Give and vote on feedback about Discord.
+  - [Discord Events](https://discord.gg/events) - News and announcements related to Official Discord Events.
 - Links
-  - [Developer Documentation](https://discordapp.com/developers)
-  - [Discord Blog](https://blog.discordapp.com/)
+  - [Developer Documentation](https://discordapp.com/developers) - Documentation for using Discord's API.
+  - [Discord Blog](https://blog.discordapp.com/) - Discord's Blog, where you can find change logs and more.
   - [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks.
-  - [Discord Status](https://status.discordapp.com/)
+  - [Discord Status](https://status.discordapp.com/) - Check Discord's current status, and see any planned maintenance.
 - Community Programs 
-  - [Hypesquad](https://discordapp.com/hypesquad) 
-  - [Partners](https://discordapp.com/partners)
-  - [Verification](https://discordapp.com/verification)
+  - [HypeSquad](https://discordapp.com/hypesquad) - Join the HypeSquad and let Discord support your gaming community.
+  - [Partners](https://discordapp.com/partners) - Join the Discord fam and get partner-only tools to make you stand out.
+  - [Verification](https://discordapp.com/verification) - Verify your server so people know where to find their favorite artists, esports organizations, and game studios.
