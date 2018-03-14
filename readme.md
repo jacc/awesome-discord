@@ -1,3 +1,4 @@
+
 <h1 align="center">
     
 <img width="600" src="https://raw.githubusercontent.com/jacc/awesome-discord/master/ad.png" alt="Awesome" href='https://discordapp.com'>
@@ -67,6 +68,7 @@
 ## 🔗 Tools
 **[Back To Top](#-contents)**
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
+- [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
@@ -89,8 +91,8 @@
 **[Back To Top](#-contents)**
 
 ### Servers
-- [Discord Testers](https://discord.gg/testers) - Test, improve, and report Discord bugs.
-- [Discord API](https://discord.gg/api) - Discussion, support, and more related to Discord's API.
+- [Discord Testers](https://discord.gg/discord-testers) - Test, improve, and report Discord bugs.
+- [Discord API](https://discord.gg/discord-api) - Discussion, support, and more related to Discord's API.
 - [Discord Feedback](https://discord.gg/discord-feedback) - Give and vote on feedback about Discord.
 - [Discord Events](https://discord.gg/events) - News and announcements related to Official Discord Events.
 
@@ -124,6 +126,10 @@
 - [DiscordHub](https://discordhub.com)
 - [DiscordServ](https://discordserv.com/)
 - [Disboard](https://disboard.org/)
+
+### Bot lists:
+- [discordbots.org](https://discordbots.org/) | [server](https://discord.gg/EYHTgJX)
+- [bots.discord.pw](https://bots.discord.pw/) | [server](https://discord.gg/0cDvIgU2voWn4BaD)
 
 ### Emojis
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
