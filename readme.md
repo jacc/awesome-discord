@@ -1,4 +1,3 @@
-
 <h1 align="center">
     
 <img width="600" src="https://raw.githubusercontent.com/jacc/awesome-discord/master/ad.png" alt="Awesome" href='https://discordapp.com'>
@@ -128,8 +127,8 @@
 - [Disboard](https://disboard.org/)
 
 ### Bot lists:
-- [discordbots.org](https://discordbots.org/) | [server](https://discord.gg/EYHTgJX)
-- [bots.discord.pw](https://bots.discord.pw/) | [server](https://discord.gg/0cDvIgU2voWn4BaD)
+- [discordbots.org](https://discordbots.org/)
+- [bots.discord.pw](https://bots.discord.pw/)
 
 ### Emojis
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
