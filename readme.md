@@ -28,6 +28,7 @@
  One of the most popular bot on Discord, has many features useful for everyday Discord servers.
 
 <details><summary>More Information</summary>
+<br>
 
 Website - [mee6.xyz](https://mee6.xyz)
 
@@ -36,7 +37,6 @@ Github - [/mee6](https://github.com/cookkkie/mee6)
 Twitter - [@mee6bot](https://twitter.com/mee6bot)
 
 Discord - [mee6](https://discord.gg/mee6)
-
 
 ***A V2 version is coming soon!***
 </details>
