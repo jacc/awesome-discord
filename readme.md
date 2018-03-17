@@ -11,7 +11,7 @@
 <p align='center'>If you wish to contribute, please read <code><a href='https://github.com/jacc/awesome-discord/blob/master/contributing.md'>the contributing guide</a></code>.</p></strong>
 <p align='center'>An awesome list of things for the VoIP and chat application Discord.</p>
 
-## 📝 Contents
+## Table of Contents
 
 - [Bots](#-bots)
 - [Programming Languages](#-programming-libraries)
@@ -22,9 +22,28 @@
 - [Community Resources](#-community-resources)
 
 
-## 🤖 Bots
-**[Back To Top](#-contents)**
-- [Mee6](https://mee6.xyz) - The most popular bot on Discord, has many features useful for everyday Discord servers.
+## Public Bots
+
+### [Mee6](https://mee6.xyz) 
+ One of the most popular bot on Discord, has many features useful for everyday Discord servers.
+
+<details><summary>More Information</summary>
+
+Website - [mee6.xyz](https://mee6.xyz)
+
+Github - [/mee6](https://github.com/cookkkie/mee6)
+
+Twitter - [@mee6bot](https://twitter.com/mee6bot)
+
+Discord - [mee6](https://discord.gg/mee6)
+
+
+***A V2 version is coming soon!***
+</details>
+
+
+
+- [Mee6](https://mee6.xyz) - One of the most popular bot on Discord, has many features useful for everyday Discord servers.
 - [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, and custom commands.
 - [Vexera](https://vexera.io) - High quality music bot with a few other features.
 - [Google](https://google.gus.host/) - Brings the power of Google to Discord.
