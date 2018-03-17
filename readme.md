@@ -42,9 +42,20 @@ Discord - [mee6](https://discord.gg/mee6)
 </details>
 
 
+### [Dyno](https://dynobot.net) 
+ One of the most popular bot on Discord, has many features useful for everyday Discord servers.
 
-- [Mee6](https://mee6.xyz) - One of the most popular bot on Discord, has many features useful for everyday Discord servers.
-- [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, and custom commands.
+<details><summary>More Information</summary>
+<br>
+
+Website - [dynobot.net](https://dynobot.net)
+
+Twitter - [@dynodiscord](https://twitter.com/dynodiscord)
+
+Discord - [dyno](https://discord.gg/dyno)
+
+</details>
+
 - [Vexera](https://vexera.io) - High quality music bot with a few other features.
 - [Google](https://google.gus.host/) - Brings the power of Google to Discord.
 - [DiscordRPG](https://discordapp.com/oauth2/authorize?&client_id=170915256833540097&scope=bot&permissions=0) - RPG text game in Discord.
