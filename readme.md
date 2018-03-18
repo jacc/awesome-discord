@@ -30,6 +30,8 @@
 <details><summary>More Information</summary>
 <br>
 
+[Invite the bot to your server.](https://mee6.xyz/login)
+
 Website - [mee6.xyz](https://mee6.xyz)
 
 Github - [/mee6](https://github.com/cookkkie/mee6)
@@ -38,7 +40,6 @@ Twitter - [@mee6bot](https://twitter.com/mee6bot)
 
 Discord - [mee6](https://discord.gg/mee6)
 
-***A V2 version is coming soon!***
 </details>
 
 
@@ -48,6 +49,8 @@ Discord - [mee6](https://discord.gg/mee6)
 <details><summary>More Information</summary>
 <br>
 
+[Invite the bot to your server.](https://discordapp.com/oauth2/authorize?client_id=161660517914509312&scope=bot%20identify%20guilds&response_type=code&redirect_uri=https://www.dynobot.net/return&permissions=2134207671)
+
 Website - [dynobot.net](https://dynobot.net)
 
 Twitter - [@dynodiscord](https://twitter.com/dynodiscord)
@@ -56,14 +59,103 @@ Discord - [dyno](https://discord.gg/dyno)
 
 </details>
 
-- [Vexera](https://vexera.io) - High quality music bot with a few other features.
-- [Google](https://google.gus.host/) - Brings the power of Google to Discord.
-- [DiscordRPG](https://discordapp.com/oauth2/authorize?&client_id=170915256833540097&scope=bot&permissions=0) - RPG text game in Discord.
-- [dabBot](https://dabbot.org) - Music bot with incredibly high quality.
-- [PvPCraft](https://bot.pvpcraft.ca) - Multipurpose bot.
-- [Dank Memer](https://discordapp.com/oauth2/authorize?client_id=270904126974590976&scope=bot&permissions=3533888) - Best meme bot for Discord, no other functions.
-- [OverwatchBot](https://discordapp.com/login?redirect_to=%2Foauth2%2Fauthorize%3F%26client_id%3D188064750351941633%26scope%3Dbot) - Retrieve Overwatch game statistics.
-- [Nadeko](https://discordapp.com/oauth2/authorize?client_id=170254782546575360&scope=bot&permissions=66186303) - Popular multipurpose bot.
+
+### [Vexera](https://vexera.io) 
+High quality music bot with a few other features.
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://vexera.io/invite)
+
+Website - [vexera.io](https://vexera.io)
+
+Github - [/vexera](https://github.com/Vexera)
+
+Twitter - [@vexeradiscord](https://twitter.com/vexeradiscord)
+
+Discord - [server](https://vexera.io/support)
+
+</details>
+
+### [DiscordRPG](https://discorddungeons.me/) 
+Discord Dungeons is a text based RPG for Discord, playable through a bot with some simple commands.
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](http://bot.discorddungeons.me/)
+
+Website - [discorddungeons.me](https://discorddungeons.me/)
+
+Github - [/discorddungeons](https://github.com/DiscordDungeons)
+
+Twitter - [@discorddungeons](https://twitter.com/discorddungeons)
+
+Reddit - [/r/discorddungeons](https://www.reddit.com/r/DiscordDungeons/)
+
+Discord - [server](http://discord.discorddungeons.me/)
+
+</details>
+
+
+### [dabBot](https://dabbot.org/) 
+A Discord music bot providing high quality music from YouTube, Radio Stations, Soundcloud, Twitch, Discord.FM and much more.
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://dabbot.org/invite)
+
+Website - [dabbot.org](https://dabbot.org/)
+
+Github - [/dabbotorg](https://github.com/dabbotorg)
+
+Twitter - [@dabbbot](https://twitter.com/dabbbot)
+
+Reddit - [/r/dabbot](https://www.reddit.com/r/dabbot/)
+
+Discord - [server](https://dabbot.org/support/)
+
+</details>
+
+
+### [NadekoBot](https://nadekobot.me/) 
+Open source and self-hostable, general-purpose Discord bot featuring a lot of game, gambling, administration tools and fun commands.
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://discordapp.com/oauth2/authorize?client_id=170254782546575360&scope=bot&permissions=66186303)
+
+Website - [nadekobot.me](https://nadekobot.me/)
+
+Github - [/nadekobot](https://github.com/Kwoth/nadekobot)
+
+Twitter - [@thenadekobot](https://twitter.com/TheNadekoBot)
+
+Discord - [nadekbot](https://discord.gg/nadekobot)
+
+</details>
+
+
+
+### [NotSoBot](https://mods.nyc/help/) 
+A popular Discord bot with many images related commands for your pleasure. A little bit edgy.
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://discordapp.com/oauth2/authorize?client_id=170254782546575360&scope=bot&permissions=66186303)
+
+Website - [mods.nyc/help](https://mods.nyc/help/)
+
+Github - [/notsobot](https://github.com/NotSoSuper/NotSoBot)
+
+Discord - [invite](https://discord.gg/9Ukuw9V)
+
+</details>
+
 - [NotSoBot](https://discordapp.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D170903265565736960%26scope%3Dbot) - Bot for image manipulation and meme making.
 - [DSL](https://discordservers.com) - Bot that places your server on DiscordServers.com
 - [Pancake](https://pancakebot.me) - Multiple features with games, roleplay, music, and more.
