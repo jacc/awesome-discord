@@ -44,7 +44,7 @@ Discord - [mee6](https://discord.gg/mee6)
 
 
 ### [Dyno](https://dynobot.net) 
- One of the most popular bot on Discord, has many features useful for everyday Discord servers.
+ Web dashboard, music, advanced moderation, and custom commands.
 
 <details><summary>More Information</summary>
 <br>
