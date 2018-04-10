@@ -134,7 +134,7 @@
 - [Bots For Discord](https://botsfordiscord.com)
 - [Boat-List](https://boat-list.glitch.me)
 - [Discord Bot World](https://discordbot.world)
-- [ls.terminal.link](https://ls.terminl.link)
+- [ls.terminal.link](https://ls.terminl.ink)
 
 ### Emojis
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
