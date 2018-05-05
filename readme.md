@@ -130,6 +130,7 @@
 - [discordbots.org](https://discordbots.org/)
 - [bots.discord.pw](https://bots.discord.pw/)
 - [Carbonitex](https://carbonitex.net/discord/bots)
+- [DiscordBotWorld](https://discordbot.world)
 
 ### Emojis
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
