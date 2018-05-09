@@ -125,6 +125,7 @@
 - [DiscordHub](https://discordhub.com)
 - [DiscordServ](https://discordserv.com/)
 - [Disboard](https://disboard.org/)
+- [DiscordSL](https://discordsl.com/)
 
 ### Bot lists:
 - [discordbots.org](https://discordbots.org/)
