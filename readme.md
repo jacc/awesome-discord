@@ -68,6 +68,7 @@
 **[Back To Top](#-contents)**
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
+- [create-discord-bot](https://github.com/HZooly/create-discord-bot) - Generate a Discord Bot in one command line
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
