@@ -262,4 +262,4 @@ Discord - [invite](https://discord.gg/9Ukuw9V)
 - [Discord Guide](https://discordguide.github.io)
 - [Server Advertisement Guide](https://austinhuang.me/advertising)
 - [Discord Wiki](https://discordia.me)
-- [An Idiot's Guide](https://anidiots.guide) - An extremely advanced coder with lots of discord.js skill under his belt.
+- [An Idiot's Guide](https://anidiots.guide)
