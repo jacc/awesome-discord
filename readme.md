@@ -6,7 +6,7 @@
 
 <p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
 
-<strong><p align="center">✨ To get here, simply visit <code><a href='http://coolcord.ga'>coolcord.ga</a></code> ✨</p></strong>
+<strong><p align="center">✨ To get here, simply visit <code><a href='http://coolcord.ga'>awesome.discord.io</a></code> ✨</p></strong>
 <p align="center">Join our Discord server! <code><a href='https://discord.gg/sJ6AMkK'>Link</a></code>
 <p align='center'>If you wish to contribute, please read <code><a href='https://github.com/jacc/awesome-discord/blob/master/contributing.md'>the contributing guide</a></code>.</p></strong>
 <p align='center'>An awesome list of things for the VoIP and chat application Discord.</p>
