@@ -152,15 +152,27 @@ Website - [mods.nyc/help](https://mods.nyc/help/)
 
 Github - [/notsobot](https://github.com/NotSoSuper/NotSoBot)
 
-Discord - [invite](https://discord.gg/9Ukuw9V)
+Discord - [server](https://discord.gg/9Ukuw9V)
 
 </details>
 
-- [NotSoBot](https://discordapp.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D170903265565736960%26scope%3Dbot) - Bot for image manipulation and meme making.
-- [DSL](https://discordservers.com) - Bot that places your server on DiscordServers.com
-- [Pancake](https://pancakebot.me) - Multiple features with games, roleplay, music, and more.
-- [PollBot](https://discordapp.com/oauth2/authorize?client_id=313929155496378371&scope=bot&permissions=3361856) - Poll the server.
-- [Now Live](https://discordapp.com/oauth2/authorize?&client_id=240729664035880961&scope=bot&permissions=8) - Bot that announces when a Twitch or YouTube streamer goes live.
+
+
+
+### [NowLive](https://nowlivebot.com/) 
+Live Stream Announcing Bot for Discord supporting Twitch, Mixer, YouTube Gaming, Picarto and Smashcast.
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://discordapp.com/oauth2/authorize?&client_id=240729664035880961&scope=bot&permissions=8)
+
+Website - [nowlivebot.com](https://nowlivebot.com/)
+
+Discord - [server](https://discordapp.com/invite/gKbbrFK)
+
+</details>
+
 - [Pokedex](https://discordapp.com/oauth2/authorize?client_id=206147222746824704&scope=bot&permissions=0) - View the Pokedex in Discord.
 - [AIRHORN SOLUTIONS](https://airhorn.solutions) - Airhorn soundboard.
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
