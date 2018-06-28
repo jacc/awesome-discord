@@ -25,7 +25,7 @@
 
 
 ## Public Bots
-**[Back To Top](#-contents)**
+<p align='right'>**[Back To Top](#-contents)**<\p>
 
 ### [Mee6](https://mee6.xyz) 
  One of the most popular bot on Discord, has many features useful for everyday Discord servers.
@@ -249,7 +249,8 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 
 
 ## Programming Libraries
-**[Back To Top](#-contents)**
+<p align='right'>**[Back To Top](#-contents)**<\p>
+	
 - **Node.js**: [discord.js](https://github.com/hydrabolt/discord.js/); [discordie](https://github.com/qeled/discordie); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
 - **Crystal** [discordcr](https://github.com/meew0/discordcr)  
@@ -266,12 +267,14 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 - **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
 
 ## 🔗 Tools
-**[Back To Top](#-contents)**
+<p align='right'>**[Back To Top](#-contents)**<\p>
+	
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 
 ## 💬 Modifications
-**[Back To Top](#-contents)**
+<p align='right'>**[Back To Top](#-contents)**<\p>
+	
 > **WARNING - Unlike Tools, Discord does not endorse nor "allow" the following Modifications - use at your own risk.**
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
@@ -288,7 +291,7 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 - [/r/discordservers](https://www.reddit.com/r/discordservers/) - A subreddit dedicated to discord servers.
 
 ## 📖 Official Resources
-**[Back To Top](#-contents)**
+<p align='right'>**[Back To Top](#-contents)**<\p>
 
 ### Servers
 - [Discord Testers](https://discord.gg/discord-testers) - Test, improve, and report Discord bugs.
