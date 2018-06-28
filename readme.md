@@ -175,12 +175,76 @@ Discord - [server](https://discordapp.com/invite/gKbbrFK)
 
 </details>
 
-- [Pokedex](https://discordapp.com/oauth2/authorize?client_id=206147222746824704&scope=bot&permissions=0) - View the Pokedex in Discord.
-- [AIRHORN SOLUTIONS](https://airhorn.solutions) - Airhorn soundboard.
-- [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
-- [blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
-- [lolbot](https://lolbot.lmao.tf) - Bot with lots of random fun features.
-- [Tweetcord](https://discordbots.org/bot/tweetcord) - The world's first Twitter to Discord bridge. Allows you to [tweet](https://why-are-you-buying-clothes-at.the-soup.store/2a95fd.png), [make streams](http://why-are-you-buying-clothes-at.the-soup.store/7f6a05.mp4) and much more - all from your own twitter account.
+
+
+### [AIRHORN SOLUTIONS](https://airhorn.solutions) 
+Airhorn is an example implementation of the Discord API. And it makes funny noises. 
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://airhorn.solutions/login)
+
+Website - [airhorn.solutions](https://airhorn.solutions/)
+
+Github - [/airhornbot](https://github.com/discordapp/airhornbot)
+</details>
+
+
+### [Septatus](https://septapus.com) 
+Septapus is a bot which makes comics and charts, posts huge emoji's and sets reminders.
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://discordapp.com/oauth2/authorize?client_id=157698859869405184&scope=bot)
+
+Website - [septapus.com](https://septapus.com/)
+
+Discord - [server](https://discord.gg/HWN9pwj)
+
+Github - [/bruxism](https://github.com/iopred/bruxism)
+</details>
+
+
+
+### [blargbot](https://blargbot.xyz) 
+A multi-purpose discord bot with the most complete custom-commands system out there!
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://invite.blargbot.xyz/)
+
+Website - [blargbot.xyz](https://blargbot.xyz/)
+
+Discord - [server](https://discord.gg/015GVxZxI8rtlJgXF)
+
+Github - [/blargbot](https://github.com/blargbot/blargbot)
+</details>
+
+
+
+### [Tweetcord](https://tweetcord.xyz/) 
+ The world's first Twitter to Discord bridge. Allows you to tweet from your own twitter account within a server.
+
+<details><summary>More Information</summary>
+<br>
+
+[Invite the bot to your server.](https://discordapp.com/oauth2/authorize?client_id=302864271383986176&scope=bot&permissions=355392)
+
+Website - [tweetcord.xyz](https://tweetcord.xyz/)
+
+Discord - [server](https://discord.gg/Yphr6WG)
+
+Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
+</details>
+
+
+
+
+
+
 
 
 ## 💻 Programming Libraries
