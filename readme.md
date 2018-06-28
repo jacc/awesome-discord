@@ -251,7 +251,6 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 
 ## Programming Libraries
 
-<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 	
 - **Node.js**: [discord.js](https://github.com/hydrabolt/discord.js/); [discordie](https://github.com/qeled/discordie); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
@@ -268,14 +267,12 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 - **Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
 - **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
 
-<h1 style="float: left; display: inline; vertical-align: top; text-align: left; line-height: 28px; font-size: 16px;">Tools</h1> <p style="float: right; display: inline; vertical-align: top; text-align: left; line-height: 28px; font-size: 16px;"><a href="#table-of-contents">Back To Top</a></p>
+## Tools
 	
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 
 ## 💬 Modifications
-
-<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 	
 > **WARNING - Unlike Tools, Discord does not endorse nor "allow" the following Modifications - use at your own risk.**
 
@@ -296,7 +293,6 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 
 ## 📖 Official Resources
 
-<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 
 ### Servers
 - [Discord Testers](https://discord.gg/discord-testers) - Test, improve, and report Discord bugs.
@@ -315,9 +311,7 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 - [Partners](https://discordapp.com/partners) - Join the Discord fam and get partner-only tools to make you stand out.
 - [Verification](https://discordapp.com/verification) - Verify your server so people know where to find their favorite artists, esports organizations, and game studios.
 
-## 💁‍ Community Resources
-
-<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
+##  Community Resources
 
 ### Custom Invites - Create a custom invite for your Discord server and view join stats, etc.
 - [discord.me](https://discord.me)
