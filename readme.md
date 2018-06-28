@@ -15,9 +15,9 @@
 
 ## Table of Contents
 
-- [Bots](#-bots)
-- [Programming Languages](#-programming-libraries)
-- [Tools](#-tools)
+- [Bots](#public-bots)
+- [Programming Libraries](#programming-libraries)
+- [Tools](#tools)
 - [Modifications](#-modifications)
 - [Subreddits](#-popular-subreddits)
 - [Official Resources](#-official-resources)
