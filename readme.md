@@ -250,7 +250,8 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 
 
 ## Programming Libraries
-<p align='right'>**[Back To Top](#-contents)**<\p>
+
+<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 	
 - **Node.js**: [discord.js](https://github.com/hydrabolt/discord.js/); [discordie](https://github.com/qeled/discordie); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
@@ -268,13 +269,15 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 - **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
 
 ## 🔗 Tools
-<p align='right'>**[Back To Top](#-contents)**<\p>
+
+<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 	
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 
 ## 💬 Modifications
-<p align='right'>**[Back To Top](#-contents)**<\p>
+
+<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 	
 > **WARNING - Unlike Tools, Discord does not endorse nor "allow" the following Modifications - use at your own risk.**
 
@@ -285,14 +288,17 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 - [DiscordForge](https://github.com/DiscordForge/DiscordForge) - Adds custom JavaScript & CSS support to Discord.
 - [Discord.Mods](https://github.com/tscs37/discord.mods) - Modloader with a focus on offloading as much as possible into external code.
 
-## <img src="https://about.reddit.com/img/snoo.ed77b63867581a2a433b25df98f560c5.svg" height="22"> Subreddits
-**[Back To Top](#-contents)**
+## Subreddits
+
+<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
+
 - [**/r/discordapp**](https://www.reddit.com/r/discordapp/) - The official Discord subreddit.
 - [/r/discord_bots](https://www.reddit.com/r/Discord_Bots/) - A subreddit dedicated to discord bots.
 - [/r/discordservers](https://www.reddit.com/r/discordservers/) - A subreddit dedicated to discord servers.
 
 ## 📖 Official Resources
-<p align='right'>**[Back To Top](#-contents)**<\p>
+
+<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 
 ### Servers
 - [Discord Testers](https://discord.gg/discord-testers) - Test, improve, and report Discord bugs.
@@ -312,7 +318,8 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 - [Verification](https://discordapp.com/verification) - Verify your server so people know where to find their favorite artists, esports organizations, and game studios.
 
 ## 💁‍ Community Resources
-**[Back To Top](#-contents)**
+
+<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 
 ### Custom Invites - Create a custom invite for your Discord server and view join stats, etc.
 - [discord.me](https://discord.me)
