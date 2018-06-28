@@ -25,7 +25,7 @@
 
 
 ## Public Bots
-<p align='right'>**[Back To Top](#-contents)**<\p>
+<p align='right'> **[Back To Top](#-contents)** <\p>
 
 ### [Mee6](https://mee6.xyz) 
  One of the most popular bot on Discord, has many features useful for everyday Discord servers.
