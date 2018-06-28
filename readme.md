@@ -24,7 +24,9 @@
 - [Community Resources](#-community-resources)
 
 
-## Public Bots <p align='right'> <a href="#-contents"><b>Back to Top</b></a></p>
+## Public Bots 
+
+<p align='right'> <a href="#table-of-contents"><b>Back to Top</b></a></p>
 
 ### [Mee6](https://mee6.xyz) 
  One of the most popular bot on Discord, has many features useful for everyday Discord servers.
