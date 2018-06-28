@@ -6,7 +6,7 @@
 
 <p align='center'>
 <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></a> 
-<a href="https://discord.gg/sJ6AMkK"><img src="https://img.shields.io/discord/322826172784312320.svg?logo=discord?colorB=7289DA" alt="Server">></a> 
+<a href="https://discord.gg/sJ6AMkK"><img src="https://img.shields.io/discord/322826172784312320.svg?logo=discord?colorB=7289DA" alt="Server"></a> 
 </p>
 
 <strong><p align="center">✨ To get here, simply visit <code><a href='http://coolcord.ga'>awesome.discord.io</a></code> ✨</p></strong>
