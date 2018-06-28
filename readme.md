@@ -268,8 +268,7 @@ Github - [/tweetcord](https://github.com/aetheryx/tweetcord)
 - **Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
 - **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
 
-## 🔗 Tools
-<h1 style="display: inline; vertical-align: top; text-align: left; line-height: 28px; font-size: 16px;">Tools</h1><p style="display: inline; vertical-align: top; text-align: left; line-height: 28px; font-size: 16px;"><a href="#table-of-contents"> 　　　　　　　　   Back To Top</a></p>
+<h1 style="float: left; display: inline; vertical-align: top; text-align: left; line-height: 28px; font-size: 16px;">Maymays</h1> <p style="float: right; display: inline; vertical-align: top; text-align: left; line-height: 28px; font-size: 16px;"><a href="#table-of-contents">Back To Top</a></p>
 	
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
