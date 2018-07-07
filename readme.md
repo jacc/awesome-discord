@@ -36,7 +36,7 @@
 - [Nadeko](https://discordapp.com/oauth2/authorize?client_id=170254782546575360&scope=bot&permissions=66186303) - Popular multipurpose bot.
 - [NotSoBot](https://discordapp.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D170903265565736960%26scope%3Dbot) - Bot for image manipulation and meme making.
 - [DSL](https://discordservers.com) - Bot that places your server on DiscordServers.com
-- [Pancake](https://pancakebot.me) - Multiple features with games, roleplay, music, and more.
+- [Pancake](https://pancakebot.org) - Multiple features with games, roleplay, music, and more.
 - [PollBot](https://discordapp.com/oauth2/authorize?client_id=313929155496378371&scope=bot&permissions=3361856) - Poll the server.
 - [Now Live](https://discordapp.com/oauth2/authorize?&client_id=240729664035880961&scope=bot&permissions=8) - Bot that announces when a Twitch or YouTube streamer goes live.
 - [Pokedex](https://discordapp.com/oauth2/authorize?client_id=206147222746824704&scope=bot&permissions=0) - View the Pokedex in Discord.
