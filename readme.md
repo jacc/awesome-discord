@@ -68,6 +68,7 @@
 **[Back To Top](#-contents)**
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
+- [gdrive2discord](https://github.com/RISE-Project-STI2D/gdrive2discord) - Send webhook notifications to discord, form google drive, when a file is created/removed/edited. 
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
