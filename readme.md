@@ -27,7 +27,6 @@
 - [Mee6](https://mee6.xyz) - The most popular bot on Discord, has many features useful for everyday Discord servers.
 - [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, and custom commands.
 - [Vexera](https://vexera.io) - High quality music bot with a few other features.
-- [Google](https://google.gus.host/) - Brings the power of Google to Discord.
 - [DiscordRPG](https://discordapp.com/oauth2/authorize?&client_id=170915256833540097&scope=bot&permissions=0) - RPG text game in Discord.
 - [dabBot](https://dabbot.org) - Music bot with incredibly high quality.
 - [PvPCraft](https://bot.pvpcraft.ca) - Multipurpose bot.
