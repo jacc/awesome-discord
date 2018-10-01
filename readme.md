@@ -45,7 +45,6 @@
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
 - [blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
 - [lolbot](https://lolbot.lmao.tf) - Bot with lots of random fun features.
-- [Tweetcord](https://discordbots.org/bot/tweetcord) - The world's first Twitter to Discord bridge. Allows you to [tweet](https://why-are-you-buying-clothes-at.the-soup.store/2a95fd.png), [make streams](http://why-are-you-buying-clothes-at.the-soup.store/7f6a05.mp4) and much more - all from your own twitter account.
 
 
 ## 💻 Programming Libraries
@@ -121,8 +120,6 @@
 ### Server Lists - Place your server on a list for free advertising.
 - [discord.me](https://discord.me)
 - [DiscordServers](https://discordservers.com)
-- [DiscordList.net](https://discordlist.net)
-- [DiscordList.com](https://discordlist.com)
 - [DiscordList.me](https://discordlist.me)
 - [DiscordHub](https://discordhub.com)
 - [DiscordServ](https://discordserv.com/)
@@ -134,7 +131,12 @@
 - [bots.discord.pw](https://bots.discord.pw/)
 - [Carbonitex](https://carbonitex.net/discord/bots)
 - [DiscordBotWorld](https://discordbot.world)
-
+- [botlist.space](https://botlist.space)
+- [discordboats.club](https://discordboats.club/)
+- [BotsForDiscord](https://botsfordiscord.com)
+- [Discord Fork](https://discordbots.co.uk/)
+- [DiscordBoats](https://discordboats.xyz/)
+- [Discord Services](http://discord.services/)
 ### Emojis
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
 - [DiscordEmoji.com](https://discordemoji.com)
