@@ -25,9 +25,8 @@
 ## 🤖 Bots
 **[Back To Top](#-contents)**
 - [Mee6](https://mee6.xyz) - The most popular bot on Discord, has many features useful for everyday Discord servers.
-- [Dyno](https://dynobot.net) - Web dashboard, music, advanced moderation, and custom commands.
+- [Dyno](https://dyno.gg) - Web dashboard, music, advanced moderation, and custom commands.
 - [Vexera](https://vexera.io) - High quality music bot with a few other features.
-- [Google](https://google.gus.host/) - Brings the power of Google to Discord.
 - [DiscordRPG](https://discordapp.com/oauth2/authorize?&client_id=170915256833540097&scope=bot&permissions=0) - RPG text game in Discord.
 - [dabBot](https://dabbot.org) - Music bot with incredibly high quality.
 - [PvPCraft](https://bot.pvpcraft.ca) - Multipurpose bot.
@@ -44,15 +43,14 @@
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
 - [blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
 - [lolbot](https://lolbot.lmao.tf) - Bot with lots of random fun features.
-- [Tweetcord](https://discordbots.org/bot/tweetcord) - The world's first Twitter to Discord bridge. Allows you to [tweet](https://why-are-you-buying-clothes-at.the-soup.store/2a95fd.png), [make streams](http://why-are-you-buying-clothes-at.the-soup.store/7f6a05.mp4) and much more - all from your own twitter account.
 
 
 ## 💻 Programming Libraries
 **[Back To Top](#-contents)**
-- **Node.js**: [discord.js](https://github.com/hydrabolt/discord.js/); [discordie](https://github.com/qeled/discordie); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
+- **Node.js**: [discord.js](https://github.com/discordjs/discord.js/); [discordie](https://github.com/qeled/discordie); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
 - **Crystal** [discordcr](https://github.com/meew0/discordcr)  
-- **Dart**: [nyx](https://github.com/hackzzila/nyx)  
+- **Dart**: [nyxx](https://github.com/l7ssha/nyxx); [nyx](https://github.com/hackzzila/nyx)
 - **Python**: [discord.py](https://github.com/Rapptz/discord.py); [disco](https://github.com/b1naryth1ef/disco)  
 - **Go**: [Discordgo](https://github.com/bwmarrin/discordgo)  
 - **Haskell**: [discord-hs](https://github.com/jano017/Discord.hs)  
@@ -63,6 +61,8 @@
 - **Swift**: [Sword](https://github.com/Azoy/Sword)  
 - **Unity**: [DiscordUnity](https://github.com/robinhood128/DiscordUnity)
 - **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
+- **Haxe**: [Haxicord](https://github.com/RaidAndFade/Haxicord)
+
 
 ## 🔗 Tools
 **[Back To Top](#-contents)**
@@ -70,9 +70,10 @@
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [gdrive2discord](https://github.com/RISE-Project-STI2D/gdrive2discord) - Send webhook notifications to discord, from google drive, when a file is created/removed/edited. 
 
+
 ## 💬 Modifications
 **[Back To Top](#-contents)**
-> **WARNING - Unlike Tools, Discord does not endorse nor "allow" the following Modifications - use at your own risk.**
+> **WARNING - Use of "client mods" are against the Discord TOS - use at your own risk.**
 
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - More widely used and faster, adds custom CSS support to Discord.
@@ -80,12 +81,14 @@
 - [Mydiscord](https://github.com/justinoboyle/mydiscord) - A BeautifulDiscord fork that includes JavaScript support.
 - [DiscordForge](https://github.com/DiscordForge/DiscordForge) - Adds custom JavaScript & CSS support to Discord.
 - [Discord.Mods](https://github.com/tscs37/discord.mods) - Modloader with a focus on offloading as much as possible into external code.
+- [Powercord](https://powercord.xyz) - A lightweight Discord client mod focused on simplicity and performance. 
 
 ## <img src="https://about.reddit.com/img/snoo.ed77b63867581a2a433b25df98f560c5.svg" height="22"> Subreddits
 **[Back To Top](#-contents)**
 - [**/r/discordapp**](https://www.reddit.com/r/discordapp/) - The official Discord subreddit.
 - [/r/discord_bots](https://www.reddit.com/r/Discord_Bots/) - A subreddit dedicated to discord bots.
 - [/r/discordservers](https://www.reddit.com/r/discordservers/) - A subreddit dedicated to discord servers.
+
 
 ## 📖 Official Resources
 **[Back To Top](#-contents)**
@@ -99,7 +102,7 @@
 ### Links
 - [Developer Documentation](https://discordapp.com/developers) - Documentation for using Discord's API.
 - [Discord Blog](https://blog.discordapp.com/) - Discord's Blog, where you can find change logs and more.
-- [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks.
+- [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks. $9.99 "Nitro" plan gives you access to a large library of games and chat perks including: global + animated emotes, increased file size upload limit, animated avatars and more! There is also the $4.99 "Nitro Classic" plan that doesn't include the games.
 - [Discord Status](https://status.discordapp.com/) - Check Discord's current status, and see any planned maintenance.
 
 ### Community Programs 
@@ -127,6 +130,7 @@
 - [DiscordServ](https://discordserv.com/)
 - [Disboard](https://disboard.org/)
 - [DiscordSL](https://discordsl.com/)
+- [Discord Server List](https://discordbots.org/servers)
 
 ### Bot lists:
 - **View all bots lists: [botblock.org/lists](https://botblock.org/lists)**
@@ -138,26 +142,21 @@
 - [dankbotlist.com](https://dankbotlist.com/)
 - [discord.boats](https://discord.boats/)
 - [discordboats.club](https://discordboats.club/)
-- [discordbotindex.com](https://discordbotindex.com/)
-- [discordbotlabs.com](https://discordbotlabs.com/)
 - [discordbots.org](https://discordbots.org/)
 - [discordbotlist.com](https://discordbotlist.com/)
-- [discordbotlist.xyz](https://discordbotlist.xyz/)
 - [ls.terminal.ink](https://ls.terminal.ink/)
-- [discordbotsreview.tk](https://discordbotsreview.tk/)
+- [discordbotreviews.xyz](https://discordbotreviews.xyz/)
 - [discordbot.world](https://discordbot.world/)
 - [discord.bots.gg](https://discord.bots.gg/)
 - [discordbotslist.com](https://discordbotslist.com/)
 - [discordbots.fr](https://discordbots.fr/)
 - [discordbots.group](https://discordbots.group/)
-- [ie.discordbots.co.uk](https://ie.discordbots.co.uk/)
 - [discordmusicbots.com](https://discordmusicbots.com/)
 - [discord.services](https://discord.services/)
 - [discordsbestbots.xyz](https://discordsbestbots.xyz/)
-- [discordsextremelist.tk](https://discordsextremelist.tk/)
 - [divinediscordbots.com](https://divinediscordbots.com/)
 
-### Emojis
+### Emoji
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
 - [DiscordEmoji.com](https://discordemoji.com)
 
