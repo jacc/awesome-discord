@@ -141,10 +141,10 @@
 - [carbonitex.net](https://carbonitex.net/discord/bots)
 - [dankbotlist.com](https://dankbotlist.com/)
 - [discord.boats](https://discord.boats/)
+- [Discord Apps Marketplace](https://discordapps.dev/)
 - [discordboats.club](https://discordboats.club/)
 - [discordbots.org](https://discordbots.org/)
 - [discordbotlist.com](https://discordbotlist.com/)
-- [ls.terminal.ink](https://ls.terminal.ink/)
 - [discordbotreviews.xyz](https://discordbotreviews.xyz/)
 - [discordbot.world](https://discordbot.world/)
 - [discord.bots.gg](https://discord.bots.gg/)
@@ -155,6 +155,9 @@
 - [discord.services](https://discord.services/)
 - [discordsbestbots.xyz](https://discordsbestbots.xyz/)
 - [divinediscordbots.com](https://divinediscordbots.com/)
+
+### Rich Presence Lists
+- [Discord Apps Marketplace Rich Presence List](https://discordapps.dev/rpc)
 
 ### Emoji
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
