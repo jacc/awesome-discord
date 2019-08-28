@@ -139,6 +139,7 @@
 - [botsfordiscord.com](https://botsfordiscord.com/)
 - [bots.ondiscord.xyz](https://bots.ondiscord.xyz/)
 - [carbonitex.net](https://carbonitex.net/discord/bots)
+- [crystalbotlist.uk](https://crystalbotlist.uk)
 - [dankbotlist.com](https://dankbotlist.com/)
 - [discord.boats](https://discord.boats/)
 - [Discord Apps Marketplace](https://discordapps.dev/)
