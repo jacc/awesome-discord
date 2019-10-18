@@ -14,7 +14,7 @@
 ## 📝 Contents
 
 - [Bots](#-bots)
-- [Programming Languages](#-programming-libraries)
+- [API Libraries](#-api-libraries)
 - [Tools](#-tools)
 - [Modifications](#-modifications)
 - [Subreddits](#-popular-subreddits)
@@ -45,7 +45,7 @@
 - [lolbot](https://lolbot.lmao.tf) - Bot with lots of random fun features.
 
 
-## 💻 Programming Libraries
+## 💻 API Libraries
 **[Back To Top](#-contents)**
 - **Node.js**: [discord.js](https://github.com/discordjs/discord.js/); [discordie](https://github.com/qeled/discordie); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
