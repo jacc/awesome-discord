@@ -71,6 +71,7 @@
 - [gdrive2discord](https://github.com/RISE-Project-STI2D/gdrive2discord) - Send webhook notifications to discord, from google drive, when a file is created/removed/edited. 
 - [discord-logo](http://nntin.github.io/discord-logo) - Create your own animated Discord logo and embed it into your website
 - [discordbot-go](https://github.com/AtomicLemon/discordbot-go) - Simple Discord example bot written in Go
+- [NodeJS example bot](https://gist.github.com/eslachance/3349734a98d30011bb202f47342601d3) - Simple, complete example of a bot in Discord.js
 
 
 ## 💬 Modifications
