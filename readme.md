@@ -70,6 +70,7 @@
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [gdrive2discord](https://github.com/RISE-Project-STI2D/gdrive2discord) - Send webhook notifications to discord, from google drive, when a file is created/removed/edited. 
 - [discord-logo](http://nntin.github.io/discord-logo) - Create your own animated Discord logo and embed it into your website
+- [discordbot-go](https://github.com/AtomicLemon/discordbot-go) - Simple Discord example bot written in Go
 
 
 ## 💬 Modifications
