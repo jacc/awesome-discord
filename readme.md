@@ -129,6 +129,7 @@
 - [Disboard](https://disboard.org/)
 - [DiscordSL](https://discordsl.com/)
 - [Discord Server List](https://discordbots.org/servers)
+- [serverlist.space](https://serverlist.space)
 
 ### Bot lists:
 - **View all bots lists: [botblock.org/lists](https://botblock.org/lists)**
