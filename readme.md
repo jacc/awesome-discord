@@ -124,8 +124,6 @@
 ### Server Lists - Place your server on a list for free advertising.
 - [discord.me](https://discord.me)
 - [DiscordServers](https://discordservers.com)
-- [DiscordList.com](https://discordlist.com)
-- [DiscordList.me](https://discordlist.me)
 - [DiscordHub](https://discordhub.com)
 - [DiscordServ](https://discordserv.com/)
 - [Disboard](https://disboard.org/)
