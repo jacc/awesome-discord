@@ -124,14 +124,12 @@
 ### Server Lists - Place your server on a list for free advertising.
 - [discord.me](https://discord.me)
 - [DiscordServers](https://discordservers.com)
-- [DiscordList.net](https://discordlist.net)
-- [DiscordList.com](https://discordlist.com)
-- [DiscordList.me](https://discordlist.me)
 - [DiscordHub](https://discordhub.com)
 - [DiscordServ](https://discordserv.com/)
 - [Disboard](https://disboard.org/)
 - [DiscordSL](https://discordsl.com/)
 - [Discord Server List](https://discordbots.org/servers)
+- [serverlist.space](https://serverlist.space)
 
 ### Bot lists:
 - **View all bots lists: [botblock.org/lists](https://botblock.org/lists)**
