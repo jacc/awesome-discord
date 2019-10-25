@@ -128,6 +128,7 @@
 - [DiscordServ](https://discordserv.com/)
 - [Disboard](https://disboard.org/)
 - [DiscordSL](https://discordsl.com/)
+- [Discord Extreme List](https://discordextremelist.xyz/servers)
 - [Discord Server List](https://discordbots.org/servers)
 - [serverlist.space](https://serverlist.space)
 
