@@ -133,7 +133,6 @@
 
 ### Bot lists:
 - **View all bots lists: [botblock.org/lists](https://botblock.org/lists)**
-- [automacord.xyz](https://automacord.xyz/)
 - [botlist.space](https://botlist.space/)
 - [botsfordiscord.com](https://botsfordiscord.com/)
 - [bots.ondiscord.xyz](https://bots.ondiscord.xyz/)
