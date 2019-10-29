@@ -47,7 +47,8 @@
 ## 💻 API Libraries
 **[Back To Top](#-contents)**
 - **Node.js**: [discord.js](https://github.com/discordjs/discord.js/); [discordie](https://github.com/qeled/discordie); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
-- **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
+- **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)
+- **C++**: [aegis.cpp](https://github.com/zeroxs/aegis.cpp)
 - **Crystal** [discordcr](https://github.com/meew0/discordcr)  
 - **Dart**: [nyxx](https://github.com/l7ssha/nyxx); [nyx](https://github.com/hackzzila/nyx)
 - **Python**: [discord.py](https://github.com/Rapptz/discord.py); [disco](https://github.com/b1naryth1ef/disco)  
