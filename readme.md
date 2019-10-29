@@ -33,7 +33,6 @@
 - [Dank Memer](https://discordapp.com/oauth2/authorize?client_id=270904126974590976&scope=bot&permissions=3533888) - Best meme bot for Discord, no other functions.
 - [OverwatchBot](https://discordapp.com/login?redirect_to=%2Foauth2%2Fauthorize%3F%26client_id%3D188064750351941633%26scope%3Dbot) - Retrieve Overwatch game statistics.
 - [Nadeko](https://discordapp.com/oauth2/authorize?client_id=170254782546575360&scope=bot&permissions=66186303) - Popular multipurpose bot.
-- [NotSoBot](https://discordapp.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D170903265565736960%26scope%3Dbot) - Bot for image manipulation and meme making.
 - [DSL](https://discordservers.com) - Bot that places your server on DiscordServers.com
 - [Pancake](https://pancakebot.org) - Multiple features with games, roleplay, music, and more.
 - [PollBot](https://discordapp.com/oauth2/authorize?client_id=313929155496378371&scope=bot&permissions=3361856) - Poll the server.
@@ -51,9 +50,12 @@
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)  
 - **Clojure**: [discljord](https://github.com/igjoshua/discljord)
 - **Crystal**: [discordcr](https://github.com/meew0/discordcr)  
+- **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/NaamloosDT/DSharpPlus)
+- **C++**: [aegis.cpp](https://github.com/zeroxs/aegis.cpp)
+- **Crystal** [discordcr](https://github.com/meew0/discordcr)  
 - **Dart**: [nyxx](https://github.com/l7ssha/nyxx); [nyx](https://github.com/hackzzila/nyx)
 - **Python**: [discord.py](https://github.com/Rapptz/discord.py); [disco](https://github.com/b1naryth1ef/disco)  
-- **Go**: [Discordgo](https://github.com/bwmarrin/discordgo)  
+- **Go**: [Discordgo](https://github.com/bwmarrin/discordgo); [DisGord](https://github.com/andersfylling/disgord)
 - **Haskell**: [discord-hs](https://github.com/jano017/Discord.hs)  
 - **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/); [Javacord](https://github.com/BtoBastian/Javacord); [Discord4J](https://github.com/austinv11/Discord4J)  
 - **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia); [Litcord](https://github.com/satom99/litcord)  
@@ -129,6 +131,7 @@
 - [DiscordServ](https://discordserv.com/)
 - [Disboard](https://disboard.org/)
 - [DiscordSL](https://discordsl.com/)
+- [Discord Extreme List](https://discordextremelist.xyz/servers)
 - [Discord Server List](https://discordbots.org/servers)
 - [serverlist.space](https://serverlist.space)
 
