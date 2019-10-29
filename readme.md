@@ -51,7 +51,7 @@
 - **Crystal** [discordcr](https://github.com/meew0/discordcr)  
 - **Dart**: [nyxx](https://github.com/l7ssha/nyxx); [nyx](https://github.com/hackzzila/nyx)
 - **Python**: [discord.py](https://github.com/Rapptz/discord.py); [disco](https://github.com/b1naryth1ef/disco)  
-- **Go**: [Discordgo](https://github.com/bwmarrin/discordgo)  
+- **Go**: [Discordgo](https://github.com/bwmarrin/discordgo); [DisGord](https://github.com/andersfylling/disgord)
 - **Haskell**: [discord-hs](https://github.com/jano017/Discord.hs)  
 - **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/); [Javacord](https://github.com/BtoBastian/Javacord); [Discord4J](https://github.com/austinv11/Discord4J)  
 - **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia); [Litcord](https://github.com/satom99/litcord)  
