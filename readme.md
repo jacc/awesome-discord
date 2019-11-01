@@ -106,7 +106,7 @@
 ### Links
 - [Developer Documentation](https://discordapp.com/developers) - Documentation for using Discord's API.
 - [Discord Blog](https://blog.discordapp.com/) - Discord's Blog, where you can find change logs and more.
-- [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks. $9.99 "Nitro" plan gives you access to a large library of games and chat perks including: global + animated emotes, increased file size upload limit, animated avatars and more! There is also the $4.99 "Nitro Classic" plan that doesn't include the games.
+- [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks. $9.99 "Nitro" plan gives you access to two free server boosts and chat perks including: global + animated emotes, increased file size upload limit, animated avatars and more! There is also the $4.99 "Nitro Classic" plan that doesn't include free server boosts.
 - [Discord Status](https://status.discordapp.com/) - Check Discord's current status, and see any planned maintenance.
 
 ### Community Programs 
