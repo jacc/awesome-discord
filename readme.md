@@ -71,6 +71,7 @@
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [PreMiD](https://premid.app) - Discord Rich Presence for many websites, includes store and media keys support
 - [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
+- [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord rich presence manager app for custom status with support for multiple profiles.
 
 
 ## 💬 Modifications
