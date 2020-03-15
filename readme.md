@@ -113,6 +113,9 @@
 ## 💁‍ Community Resources
 **[Back To Top](#-contents)**
 
+### Custom Profiles - Extend your Discord profile with these services
+- [discord.bio](https://discord.bio)
+
 ### Custom Invites - Create a custom invite for your Discord server and view join stats, etc.
 - [discord.me](https://discord.me)
 - [discord.io](https://discord.io)
