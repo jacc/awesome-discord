@@ -135,6 +135,7 @@
 - [Discord Server List](https://discordbots.org/servers)
 - [serverlist.space](https://serverlist.space)
 - [top.gg](https://top.gg/servers)
+- [Disforge Servers](https://disforge.com/servers)
 
 ### Bot Lists:
 - **View all bot lists: [botblock.org/lists](https://botblock.org/lists)**
@@ -152,6 +153,7 @@
 - [Discords Best Bots](https://discordsbestbots.xyz)
 - [Divine Discord Bots](https://divinediscordbots.com)
 - [top.gg](https://top.gg)
+- [Disforge Bots](https://disforge.com/bots)
 
 ### Rich Presence 
 - [Discord Apps Marketplace Rich Presence List](https://discordapps.dev/rpc)
