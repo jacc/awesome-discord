@@ -43,6 +43,7 @@
 - [blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
 - [lolbot](https://lolbot.lmao.tf) - Bot with lots of random fun features.
 - [CaptchaBot](https://discordcaptcha.xyz) - Bot that focuses mainly on CAPTCHA Verification with multiple unique security-enhancing features.
+- [Rovel Bot](https://rovelstars.glitch.me/) - Bot that has a lot of AWESOME FEATURES!
 
 ## 💻 API Libraries
 **[Back To Top](#-contents)**
@@ -154,6 +155,7 @@
 - [Divine Discord Bots](https://divinediscordbots.com)
 - [top.gg](https://top.gg)
 - [Disforge Bots](https://disforge.com/bots)
+- [Rovel Bot List](https://rovelbotlist.glitch.me/)
 
 ### Rich Presence 
 - [Discord Apps Marketplace Rich Presence List](https://discordapps.dev/rpc)
