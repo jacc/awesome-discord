@@ -75,7 +75,7 @@
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds custom CSS support to Discord.
 - [Powercord](https://powercord.dev) - A lightweight Discord client mod focused on simplicity and performance. 
 
-## <img src="https://about.reddit.com/img/snoo.ed77b63867581a2a433b25df98f560c5.svg" height="22"> Subreddits
+## <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" height="22"> Subreddits
 **[Back To Top](#-contents)**
 - [**/r/discordapp**](https://www.reddit.com/r/discordapp) - The official Discord subreddit.
 - [/r/discord_bots](https://www.reddit.com/r/Discord_Bots) - A subreddit dedicated to discord bots.
