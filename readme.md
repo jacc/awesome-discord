@@ -6,8 +6,6 @@
 
 <p align='center'><a href="https://awesome.re"><img src="https://awesome.re/badge.svg" ></p></a>
 
-<strong><p align="center">✨ To get here, simply visit <code><a href='http://coolcord.ga'>coolcord.ga</a></code> ✨</p></strong>
-<p align="center">Join our Discord server! <code><a href='https://discord.gg/sJ6AMkK'>Link</a></code>
 <p align='center'>If you wish to contribute, please read <code><a href='https://github.com/jacc/awesome-discord/blob/master/contributing.md'>the contributing guide</a></code>.</p></strong>
 <p align='center'>An awesome list of things for the VoIP and chat application Discord.</p>
 
@@ -20,7 +18,6 @@
 - [Subreddits](#-popular-subreddits)
 - [Official Resources](#-official-resources)
 - [Community Resources](#-community-resources)
-
 
 ## 🤖 Bots
 **[Back To Top](#-contents)**
@@ -68,12 +65,7 @@
 ## 🔗 Tools
 **[Back To Top](#-contents)**
 - [discord-logo](http://nntin.github.io/discord-logo) - Create your own animated Discord logo and embed it into your website
-- [gdrive2discord](https://github.com/RISE-Project-STI2D/gdrive2discord) - Send webhook notifications to discord, from Google Drive, when a file is created/removed/edited. 
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
-- [PreMiD](https://premid.app) - Discord Rich Presence for many websites, includes store and media keys support
-- [SimplePresence](https://github.com/justdotJS/SimplePresence) - Create custom Rich Presences using a simple interface, or display what you're listening to.
-- [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord rich presence manager app for custom status with support for multiple profiles.
-
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
@@ -83,7 +75,7 @@
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds custom CSS support to Discord.
 - [Powercord](https://powercord.dev) - A lightweight Discord client mod focused on simplicity and performance. 
 
-## <img src="https://about.reddit.com/img/snoo.ed77b63867581a2a433b25df98f560c5.svg" height="22"> Subreddits
+## <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" height="22"> Subreddits
 **[Back To Top](#-contents)**
 - [**/r/discordapp**](https://www.reddit.com/r/discordapp) - The official Discord subreddit.
 - [/r/discord_bots](https://www.reddit.com/r/Discord_Bots) - A subreddit dedicated to discord bots.
@@ -102,7 +94,7 @@
 ### Links
 - [Discord Blog](https://blog.discordapp.com/) - Discord's Blog, where you can find change logs and more.
 - [Developer Documentation](https://discordapp.com/developers) - Documentation for using Discord's API.
-- [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks. $9.99 "Nitro" plan gives you access to two free server boosts and chat perks including: global + animated emotes, increased file size upload limit, animated avatars and more! There is also the $4.99 "Nitro Classic" plan that doesn't include free server boosts, but both plans give you 30% off your server boost subscription.
+- [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks.
 - [Discord Status](https://status.discordapp.com/) - Check Discord's current status, and see any planned maintenance.
 
 ### Community Programs 
@@ -156,7 +148,9 @@
 - [Disforge Bots](https://disforge.com/bots)
 
 ### Rich Presence 
+- [PreMiD](https://premid.app)
 - [Discord Apps Marketplace Rich Presence List](https://discordapps.dev/rpc)
+- [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord rich presence manager app for custom status with support for multiple profiles.
 
 ### Emoji
 - [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
@@ -164,7 +158,7 @@
 - [DiscordEmoji.com](https://discordemoji.com)
 
 ### Guides and Tutorials
-- [An Idiot's Guide](https://anidiots.guide) - An extremely advanced coder with lots of discord.js skill under his belt.
+- [An Idiot's Guide](https://anidiots.guide)
 - [Discord 101](https://gist.github.com/Tornado1878/eca384ad6cf3c724be0bcc3d9f557526)
 - [Discord Guide](https://discordguide.github.io)
 - [Discord Wiki](https://discordia.me)
