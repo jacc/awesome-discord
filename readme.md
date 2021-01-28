@@ -65,6 +65,7 @@
 **[Back To Top](#-contents)**
 - [discord-logo](http://nntin.github.io/discord-logo) - Create your own animated Discord logo and embed it into your website
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
+- [Discord Slash Command Generator](https://github.com/iSaluki/discord-slash-commands) - Create, edit and delete slash commands for your Discord bots through an easy-to-use CLI nterface.
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
