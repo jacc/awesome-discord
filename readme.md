@@ -145,6 +145,7 @@
 - [Discord Bot Reviews](https://discordbotreviews.xyz)
 - [Discords Best Bots](https://discordsbestbots.xyz)
 - [Divine Discord Bots](https://divinediscordbots.com)
+- [Top Bots List](https://top-bots.xyz)
 - [top.gg](https://top.gg)
 - [Disforge Bots](https://disforge.com/bots)
 - [Topbotlist](https://www.topbotlist.com/)
