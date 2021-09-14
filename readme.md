@@ -125,9 +125,10 @@
 - [DiscordSL](https://discordsl.com)
 - [Discord Extreme List](https://discordextremelist.xyz/servers)
 - [Discord Server List](https://discordbots.org/servers)
+- [Find a Discord](https://findadiscord.com) - Discord servers list from owners of /r/discordservers and creators of Top Bots List
 - [serverlist.space](https://serverlist.space)
 - [top.gg](https://top.gg/servers)
-- [Disforge Servers](https://disforge.com/servers)
+- [Disforge Servers](https://disforge.com/servers) 
 - [Topbotlist](https://www.topbotlist.com/servers)
 
 ### Bot Lists:
