@@ -51,7 +51,7 @@
 - **Crystal**: [discordcr](https://github.com/meew0/discordcr)  
 - **Dart**: [nyxx](https://github.com/l7ssha/nyxx)
 - **Elixir**: [Discord_Alchemy](https://hex.pm/packages/discord_alchemy)
-- **Go**: [Discordgo](https://github.com/bwmarrin/discordgo); [DisGord](https://github.com/andersfylling/disgord)
+- **Go**: [Discordgo](https://github.com/bwmarrin/discordgo); [DisGord](https://github.com/andersfylling/disgord); [Arikawa](https://github.com/diamondburned/arikawa)
 - **Haskell**: [discord-hs](https://github.com/jano017/Discord.hs)  
 - **Haxe**: [Haxicord](https://github.com/RaidAndFade/Haxicord)
 - **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/); [Javacord](https://github.com/BtoBastian/Javacord); [Discord4J](https://github.com/austinv11/Discord4J)  
@@ -60,6 +60,7 @@
 - **Python**: [discord.py](https://github.com/Rapptz/discord.py); [disco](https://github.com/b1naryth1ef/disco)  
 - **Rust**: [Serenity](https://github.com/zeyla/serenity); [discord-rs](https://github.com/SpaceManiac/discord-rs)  
 - **Swift**: [Sword](https://github.com/Azoy/Sword)  
+- **Ruby**: [discordrb](https://github.com/shardlab/discordrb)
 
 
 ## 🔗 Tools
