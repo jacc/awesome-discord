@@ -44,7 +44,7 @@
 ## 💻 API Libraries
 **[Back To Top](#-contents)**
 - **C#**: [Discord.Net](https://github.com/RogueException/Discord.Net); [DSharpPlus](https://github.com/DSharpPlus/DSharpPlus)
-- **C++**: [aegis.cpp](https://github.com/zeroxs/aegis.cpp)
+- **C++**: [aegis.cpp](https://github.com/zeroxs/aegis.cpp); [DPP](https://github.com/brainboxdotcc/DPP)
 - **Node.js**: [discord.js](https://github.com/discordjs/discord.js); [discord.io](https://github.com/izy521/discord.io/); [eris](https://github.com/abalabahaha/eris)  
 - **TypeScript**: [typeit/discord](https://github.com/OwenCalvin/discord.ts)  
 - **Clojure**: [discljord](https://github.com/igjoshua/discljord)  
