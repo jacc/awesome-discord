@@ -40,6 +40,7 @@
 - [blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
 - [CaptchaBot](https://discordcaptcha.xyz) - Bot that focuses mainly on CAPTCHA Verification with multiple unique security-enhancing features.
 - [WaybackBot](https://discord.com/oauth2/authorize?client_id=863324809206169640&permissions=2147796992&scope=bot%20applications.commands) - A Discord bot to help you archive webpages more easily.
+- [Would You](https://discord.com/oauth2/authorize?client_id=981649513427111957&permissions=274878377024&scope=bot%20applications.commands) - Bot that allows you to play the game "Would You Rather" and increase your servers activity.
 
 ## 💻 API Libraries
 **[Back To Top](#-contents)**
