@@ -77,6 +77,8 @@
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds custom CSS support to Discord.
 - [Powercord](https://powercord.dev) - A lightweight Discord client mod focused on simplicity and performance. 
+- [Bluecord](https://https://bluesmods.com/bluecord/) - Open source Discord client for Android with in-built modifications.
+- [Aliucord](https://github.com/Aliucord/Aliucord) - Android Discord client with plugin and themes support.
 
 ## <img src="https://www.redditinc.com/assets/images/site/reddit-logo.png" height="22"> Subreddits
 **[Back To Top](#-contents)**
