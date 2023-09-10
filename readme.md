@@ -101,6 +101,7 @@
 - [Developer Documentation](https://discordapp.com/developers) - Documentation for using Discord's API.
 - [Discord Nitro](https://discordapp.com/nitro) - Support Discord's development and get some sweet perks.
 - [Discord Status](https://status.discordapp.com/) - Check Discord's current status, and see any planned maintenance.
+- [Discord Careers](https://discord.com/careers) - Jobs and Career Opportunities at Discord.
 
 ### Community Programs 
 - [HypeSquad](https://discordapp.com/hypesquad) - Join the HypeSquad and let Discord support your gaming community.
