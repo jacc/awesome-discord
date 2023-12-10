@@ -161,7 +161,11 @@
 - [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord rich presence manager app for custom status with support for multiple profiles.
 
 ### Emoji
-- [awesome-discord-emojis](https://github.com/SubliminalHQ/awesome-discord-emojis)
+- [DiscordFreeEmojis](https://github.com/An00nymushun/DiscordFreeEmojis)
+- [ImageClipboard](https://imageclipboard.com/)
+- [emoji.gg](https://emoji.gg/)
+- [Emote Manager](https://github.com/joyn-gg/EmoteManager)
+- [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)
 - [Blob Emoji](https://blobs.gg)
 - [DiscordEmoji.com](https://discordemoji.com)
 
