@@ -37,6 +37,7 @@
 - [Pokedex](https://discordapp.com/oauth2/authorize?client_id=206147222746824704&scope=bot&permissions=0) - View the Pokedex in Discord.
 - [AIRHORN SOLUTIONS](https://airhorn.solutions) - Airhorn soundboard.
 - [Septapus](https://septapus.com) - Bot that creates cartoons out of your server's chat messages.
+- [Become CEO](https://github.com/wanikua/become-ceo) - Run a 7-agent AI team on Discord. @Engineering writes code, @Finance tracks costs, @everyone rallies the crew. Each agent is an independent bot with its own Claude model. One-click setup on a free server.
 - [blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
 - [CaptchaBot](https://discordcaptcha.xyz) - Bot that focuses mainly on CAPTCHA Verification with multiple unique security-enhancing features.
 - [WaybackBot](https://discord.com/oauth2/authorize?client_id=863324809206169640&permissions=2147796992&scope=bot%20applications.commands) - A Discord bot to help you archive webpages more easily.
