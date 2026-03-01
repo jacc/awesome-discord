@@ -65,6 +65,7 @@
 
 ## 🔗 Tools
 **[Back To Top](#-contents)**
+- [OpenPaw](https://github.com/daxaur/openpaw) - Open-source AI CLI tool with Discord integration for sending messages, managing channels, and more.
 - [Overlayed](https://overlayed.dev) - Voice chat overlay for Discord.
 - [discord-logo](http://nntin.github.io/discord-logo) - Create your own animated Discord logo and embed it into your website
 - [durl](https://github.com/lukepighetti/durl) - An authenticated curl-like command-line client for the Discord API
