@@ -70,6 +70,7 @@
 - [durl](https://github.com/lukepighetti/durl) - An authenticated curl-like command-line client for the Discord API
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [tscord](https://github.com/barthofu/tscord) - Create full-fletched discord.js bots from this comprehensive and documented template.
+- [Discord Auto Status Changer](https://github.com/Icey067/Discord-auto-status-changer) - Lightweight Python script to automatically loop through custom Discord statuses on a timer.
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
