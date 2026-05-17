@@ -135,6 +135,7 @@
 - [serverlist.space](https://serverlist.space)
 - [top.gg](https://top.gg/servers)
 - [Disforge Servers](https://disforge.com/servers) 
+- [DiscordForge](https://discordforge.org)
 
 ### Bot Lists:
 - **View all bot lists: [botblock.org/lists](https://botblock.org/lists)**
@@ -155,6 +156,7 @@
 - [top.gg](https://top.gg)
 - [Disforge Bots](https://disforge.com/bots)
 - [Topbotlist](https://www.topbotlist.com/)
+- [DiscordForge](https://discordforge.org)
 
 ### Rich Presence 
 - [PreMiD](https://premid.app)
