@@ -70,6 +70,7 @@
 - [durl](https://github.com/lukepighetti/durl) - An authenticated curl-like command-line client for the Discord API
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [tscord](https://github.com/barthofu/tscord) - Create full-fletched discord.js bots from this comprehensive and documented template.
+- [UniStyle](https://unistyle.io) - Convert plain text to 20+ Unicode styles (bold, italic, script, vaporwave) that paste into Discord bios, statuses, and posts where Markdown is unavailable.
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
