@@ -70,6 +70,7 @@
 - [durl](https://github.com/lukepighetti/durl) - An authenticated curl-like command-line client for the Discord API
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [tscord](https://github.com/barthofu/tscord) - Create full-fletched discord.js bots from this comprehensive and documented template.
+- [Discord Hidden Pinger](https://giga.tools/discord/hidden-pinger) - Hide pings in your message.
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
