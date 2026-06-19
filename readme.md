@@ -160,6 +160,7 @@
 - [PreMiD](https://premid.app)
 - [Discord Apps Marketplace Rich Presence List](https://discordapps.dev/rpc)
 - [MultiRPC](https://github.com/FluxpointDev/MultiRPC) - Discord rich presence manager app for custom status with support for multiple profiles.
+- [Music Presence](https://musicpresence.app) - Share music from any media player in your Discord status
 
 ### Emoji
 - [ImageClipboard](https://imageclipboard.com/)
