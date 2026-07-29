@@ -70,6 +70,7 @@
 - [durl](https://github.com/lukepighetti/durl) - An authenticated curl-like command-line client for the Discord API
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [tscord](https://github.com/barthofu/tscord) - Create full-fletched discord.js bots from this comprehensive and documented template.
+- [Emote Resizer](https://emoteresize.com) - Resize one image into every Discord emoji and sticker size (plus Twitch, 7TV and Slack). Handles animated GIFs, batch input and auto-compression; runs fully in the browser with no upload or signup.
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
