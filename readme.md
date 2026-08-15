@@ -75,6 +75,7 @@
 **[Back To Top](#-contents)**
 > **WARNING - Use of "client mods" are against the Discord TOS - use at your own risk.**
 
+- [Litecord](https://ak4ai.github.io/Litecord/) - Lightweight and fast open-source client focused on privacy and performance, without the heavy Electron overhead.
 - [BetterDiscord](https://betterdiscord.net) - BetterDiscord allows for use of themes and addons to be installed.
 - [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord) - Adds custom CSS support to Discord.
 - [Powercord](https://powercord.dev) - A lightweight Discord client mod focused on simplicity and performance. 
