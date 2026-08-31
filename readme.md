@@ -55,7 +55,7 @@
 - **Haskell**: [discord-hs](https://github.com/jano017/Discord.hs)  
 - **Haxe**: [Haxicord](https://github.com/RaidAndFade/Haxicord)
 - **Java**: [JDA](https://github.com/DV8FromTheWorld/JDA/); [Javacord](https://github.com/BtoBastian/Javacord); [Discord4J](https://github.com/austinv11/Discord4J)  
-- **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia) 
+- **Lua**: [Discordia](https://github.com/SinisterRectus/Discordia); [discord.lua](https://github.com/filispeen/discord.lua)
 - **PHP**: [RestCord](https://github.com/restcord/restcord); [Yasmin](https://github.com/CharlotteDunois/Yasmin)
 - **Python**: [discord.py](https://github.com/Rapptz/discord.py); [disco](https://github.com/b1naryth1ef/disco)  
 - **Rust**: [Serenity](https://github.com/zeyla/serenity); [discord-rs](https://github.com/SpaceManiac/discord-rs)  
