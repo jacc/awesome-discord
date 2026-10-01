@@ -135,6 +135,7 @@
 - [serverlist.space](https://serverlist.space)
 - [top.gg](https://top.gg/servers)
 - [Disforge Servers](https://disforge.com/servers) 
+- [TheDiscordList](https://thediscordlist.com) - Curated server directory with upvotes, bump reminders and growth stats.
 
 ### Bot Lists:
 - **View all bot lists: [botblock.org/lists](https://botblock.org/lists)**
@@ -155,6 +156,7 @@
 - [top.gg](https://top.gg)
 - [Disforge Bots](https://disforge.com/bots)
 - [Topbotlist](https://www.topbotlist.com/)
+- [TheDiscordList](https://thediscordlist.com/bots) - Curated bot directory showing each bot's real slash commands, with verified ownership, vote webhooks and a stats API.
 
 ### Rich Presence 
 - [PreMiD](https://premid.app)
