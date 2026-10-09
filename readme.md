@@ -70,6 +70,7 @@
 - [durl](https://github.com/lukepighetti/durl) - An authenticated curl-like command-line client for the Discord API
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [tscord](https://github.com/barthofu/tscord) - Create full-fletched discord.js bots from this comprehensive and documented template.
+- [LivePair Bots](https://github.com/livepairai/livepair-bots) - Zero-dependency bot template for AI image and video generation (`/imagine`, `/video`) via the LivePair API.
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
