@@ -40,6 +40,7 @@
 - [blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
 - [CaptchaBot](https://discordcaptcha.xyz) - Bot that focuses mainly on CAPTCHA Verification with multiple unique security-enhancing features.
 - [WaybackBot](https://discord.com/oauth2/authorize?client_id=863324809206169640&permissions=2147796992&scope=bot%20applications.commands) - A Discord bot to help you archive webpages more easily.
+- [Dropify](https://dropify.cloud/discord-bot) - Free drop, restock and price alerts for official artist and brand merch stores, posted straight to your server.
 
 ## 💻 API Libraries
 **[Back To Top](#-contents)**
