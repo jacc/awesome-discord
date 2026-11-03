@@ -40,6 +40,7 @@
 - [blargbot](https://blargbot.xyz) - Bot that allows you to create complex custom commands without coding knowledge.
 - [CaptchaBot](https://discordcaptcha.xyz) - Bot that focuses mainly on CAPTCHA Verification with multiple unique security-enhancing features.
 - [WaybackBot](https://discord.com/oauth2/authorize?client_id=863324809206169640&permissions=2147796992&scope=bot%20applications.commands) - A Discord bot to help you archive webpages more easily.
+- [BabelBot](https://babelbot.app) - Auto-translates Discord chat into 130+ languages and keeps slang and tone. Replies, threads, two-way language channels and voice chat. Free plan.
 
 ## 💻 API Libraries
 **[Back To Top](#-contents)**
