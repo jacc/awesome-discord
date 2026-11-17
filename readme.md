@@ -70,6 +70,7 @@
 - [durl](https://github.com/lukepighetti/durl) - An authenticated curl-like command-line client for the Discord API
 - [Permissions Calculator](https://discordapi.com/permissions.html) - Create invite links for bots with specific permissions
 - [tscord](https://github.com/barthofu/tscord) - Create full-fletched discord.js bots from this comprehensive and documented template.
+- [Free Games Notifier Lite](https://github.com/botdrop-gg/free-games-notifier-lite) - Posts Epic Games Store free games to a Discord channel through a webhook.
 
 ## 💬 Modifications
 **[Back To Top](#-contents)**
