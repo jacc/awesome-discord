@@ -135,6 +135,7 @@
 - [serverlist.space](https://serverlist.space)
 - [top.gg](https://top.gg/servers)
 - [Disforge Servers](https://disforge.com/servers) 
+- [DiscordPlace](https://discordplace.com) - Server and bot directory with voting, bumping and bot pages that show the permissions each invite link asks for.
 
 ### Bot Lists:
 - **View all bot lists: [botblock.org/lists](https://botblock.org/lists)**
