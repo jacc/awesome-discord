@@ -168,6 +168,7 @@
 - [Discord Emoji Downloader](https://thatiemsz.github.io/Discord-Emoji-Downloader/)
 - [Blob Emoji](https://blobs.gg)
 - [DiscordEmoji.com](https://discordemoji.com)
+- [Emote Studio Discord Emoji Resizer](https://twitchemotemaker.app/discord-emoji-resizer) - Free browser tool to resize PNGs and compress animated GIFs for Discord emoji (128×128), stickers (320×320), and banners, with optional paid AI Discord emoji generation.
 
 ### Guides and Tutorials
 - [An Idiot's Guide](https://anidiots.guide)
